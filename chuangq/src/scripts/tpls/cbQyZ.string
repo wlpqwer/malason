@@ -1,0 +1,48 @@
+<div class="container" spa-widget='scroll'>
+  <div class="content list cbBBBox">
+    <div id="" class="cbBanner">
+      <img src="/chuangq/img/cgqBanner1.png"/>
+    </div>
+
+    <div id="" class="cbListPic">
+      <div class="swiper-container" id="cbFoundContentPicLi-swiper">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide bm1">
+                <div class="cbbbW"><img src="/chuangq/img/cgqBanner2.png"/></div>
+          </div>
+          <div class="swiper-slide">
+               <div class="cbbbW"><img src="/chuangq/img/cgqBanner3.png"/></div>
+          </div>
+          <div class="swiper-slide">
+              <div class="cbbbW"><img src="/chuangq/img/cgqBanner2.png"/></div>
+          </div>
+          <div class="swiper-slide">
+             <div class="cbbbW"><img src="/chuangq/img/cgqBanner3.png"/></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="cbContent">
+        <div>企业的成功取决于多因素间的协调一致，这其中包括领导力、专注度、执行力，
+          以及最为重要的 – 伟大的产品和服务。我们正处于为期多年的惠普复兴之旅中，
+          而且我们已制定实现惠普发展壮大的计划。 我们深知要实现的目标，并在朝着该目
+          标不断努力。我们在继续引领核心市场中的产品创新，专注于云、安全以及大数据。
+          凭借巨大的资产和非凡的能力，我们探索出了众多良机。 我们拥有专业的人才、宏
+          伟的计划以及坚实的基础，可以帮助我们在下一阶段的复兴之旅中取得成功。”
+        </div>
+      </div>
+
+    <div class="cellPhone">
+      <div class="boxCbTel">
+        <div class="hou">
+          24小时热线:
+        </div>
+        <div class="tel">
+          <i class='yo-ico icon-back le1'></i><b>13813813821</b>点击拨打
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

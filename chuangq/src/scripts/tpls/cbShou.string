@@ -1,0 +1,36 @@
+<div class="container" spa-widget='scroll' data-scroll-id="cbShouScroll">
+  <div class="content list cbBBBox">
+
+    <div class="head">
+     <img src="/chuangq/img/arrow.png"/>
+     <span>下拉刷新...</span>
+    </div>
+
+    <div class="listBoxWx">
+      <div class="liBoxWx" action-type="goCBWxDetail" ms-repeat-el="cbShouLi" ms-attr-data-id="el.id">
+        <div class="topWxContent">
+          <div class="selfWxBox">
+            <div class="leftWxCon">
+              <div class="picCbWx"><img src="/chuangq/img/cgqBanner2.png"/></div>
+              <div class="">
+                <div class="nameWx" ms-text="el.name"></div>
+                <span>2016-11-04</span>
+              </div>
+            </div>
+            <div class="detailSelfWx" ms-text="el.title"></div>
+          </div>
+          <div class="imgWxTop">
+            <img src="/chuangq/img/cgqBanner2.png"/>
+          </div>
+        </div>
+        <div class="contentBoCb" ms-text="el.detail"></div>
+      </div>
+    </div>
+
+    <div class="foot">
+       <img src="/chuangq/img/arrow.png"/>
+       <span>上拉加载更多...</span>
+     </div>
+
+  </div>
+</div>

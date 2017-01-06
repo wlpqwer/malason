@@ -1,0 +1,13 @@
+<div class='ansbox'>
+  <header class='sf-he'>
+      <ul class='sf-ul1'>
+        <li class='emp'>fffff</li>
+        <li class='sf-ul1-li'><span class='sf-u-li1 active' action-type='swix' data-name='a1'>问题榜</span><span class='sf-u-li2' action-type='swix' data-name='a2'>悬赏</span><span class='sf-u-li3' action-type='swix' data-name='a3'>讨论</span></li>
+        <li class='yo-ico icon-sousuo so' action-type='ts'></li>
+      </ul>
+  </header>
+
+  <div id='ans' class='ansboxdiv'>
+
+  </div>
+</div>

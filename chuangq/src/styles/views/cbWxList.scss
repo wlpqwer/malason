@@ -1,0 +1,103 @@
+.nibox{
+  height:1.65rem;width:100%;
+  padding:.1rem .1rem 0;
+  border-bottom:1px solid #e6e6e6;
+  .nibox1{
+    height:.88rem;
+    .lebox{
+      height:.88rem;width:55vw;
+      float:left;
+      .l-t{
+        height:.4rem;float:left;
+        .l-t-l{
+          float:left;
+
+          img{
+            height:.34rem;
+            width:.34rem;
+            border-radius:50%;
+          }
+        }
+        .l-t-r{
+          float:left;
+          margin-left:.06rem;
+          .nameWx{
+            font-size:.13rem;
+            color:#2d74ff;
+          }
+          .ft1{
+            color:#999;
+            font-size:.1rem;
+          }
+        }
+      }
+      .l-b{
+        height:.4rem;float:left;
+        font-size:.14rem;
+        color:#333333;
+        padding-top:.07rem;
+      }
+    }
+    .ribox{
+      height:.88rem;width:37vw;
+      margin-left:.05rem;
+      float:left;
+      img{
+        height:.88rem;width:100%;
+        border-radius:.06rem;
+      }
+    }
+  }
+  .nibox2{
+    height:.48rem;width:100%;
+    color:#737373;
+    padding-top:.1rem;
+    font-size:.12rem;
+    @include ellipsis(100%,2);
+  }
+
+}
+.wxbox{
+  height:100%;
+  width:100%;
+  @include flexbox();
+  @include flex-direction(column);
+  .wxbig{
+    @include flex();
+    width:100%!important;
+    overflow:hidden;
+  }
+  header{
+    .yi{color:#9b9b9b;font-size:.19rem;font-weight:bold;}
+    height:.44rem;line-height:.44rem;
+    font-size: .18rem; color: #2d74ff;
+    padding:0 .1rem;
+    border-bottom:1px solid #e6e6e6;
+    i{color:#ffffff;}
+    @include justify-content(space-between);
+    @include align-items(center);
+    .ff{color:#ffffff;}
+    .ce{color:#414141;}
+      .cen{
+          font-size:.18rem;
+      }
+      .ri{
+        font-size:.22rem;
+        margin-right:.1rem;
+      }
+      width:100%;height:44px;
+      @include flexbox();
+  }
+}
+.cbWxT{
+    color: #2d74ff;
+    font-size: .17rem;
+}
+
+.natime{
+  font-size:.1rem;
+}
+ .leftWxCon span{
+     color: #999;
+     font-size:.1rem;
+ }

@@ -1,0 +1,111 @@
+<div class='recbox'>
+    <div class="l-top">
+      <i class='yo-ico icon-back le'  action-type="rec_b">
+      </i>
+      <span>收到的问题</span>
+      <b class='l-b'>fff</b>
+    </div>
+    <div class="recboxdiv" spa-widget='scroll'>
+        <div class="lsbox">
+          <div class="question_items ">
+            <div class="user_info ">
+              <p class="icon_text ">
+                <span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+                <span class="text-icon ">万能的丛思佳</span>
+              </p>
+              <em class="cost ">￥8.88</em>
+            </div>
+            <p class="problem " action-type='re.de'>在现代，跑马拉松是件比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+            <div class="problem_static ">
+              <p>
+                <span>3天前</span>
+                <b>待回答</b>
+              </p>
+            </div>
+          </div>
+          <div class="question_items ">
+            <div class="user_info ">
+              <p class="icon_text ">
+                <span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+                <span class="text-icon ">万能的丛思佳</span>
+              </p>
+              <em class="cost ">￥8.88</em>
+            </div>
+            <p class="problem " action-type='re.de'>在现代，跑马拉松是件比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+            <div class="problem_static ">
+              <p>
+                <span>3天前</span>
+              <b>待回答</b>
+              </p>
+            </div>
+          </div>
+          <div class="question_items ">
+            <div class="user_info ">
+              <p class="icon_text ">
+                <span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+                <span class="text-icon ">万能的丛思佳</span>
+              </p>
+              <em class="cost ">￥8.88</em>
+            </div>
+            <p class="problem " action-type='re.de'>在现代，跑马拉松是件比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+            <div class="problem_static ">
+              <p>
+                <span>3天前</span>
+                <b>待回答</b>
+              </p>
+            </div>
+          </div>
+          <div class="question_items ">
+            <div class="user_info ">
+              <p class="icon_text ">
+                <span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+                <span class="text-icon ">万能的丛思佳</span>
+              </p>
+              <em class="cost ">￥8.88</em>
+            </div>
+            <p class="problem " action-type='re.de'>在现代，跑马拉松是件比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+            <div class="problem_static ">
+              <p>
+                <span>3天前</span>
+              <b>待回答</b>
+              </p>
+            </div>
+          </div>
+
+          <div class="question_items ">
+            <div class="user_info ">
+              <p class="icon_text ">
+                <span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+                <span class="text-icon ">万能的丛思佳</span>
+              </p>
+              <em class="cost ">￥8.88</em>
+            </div>
+            <p class="problem " action-type='re.de'>在现代，跑马拉松是件比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+            <div class="problem_static ">
+              <p>
+                <span>3天前</span>
+              <b>待回答</b>
+              </p>
+            </div>
+          </div>
+
+          <div class="question_items ">
+            <div class="user_info ">
+              <p class="icon_text ">
+                <span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+                <span class="text-icon ">万能的丛思佳</span>
+              </p>
+              <em class="cost ">￥8.88</em>
+            </div>
+            <p class="problem " action-type='re.de'>在现代，跑马拉松是件比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+            <div class="problem_static ">
+              <p>
+                <span>3天前</span>
+                <b>待回答</b>
+              </p>
+            </div>
+          </div>
+
+        </div>
+    </div>
+</div>

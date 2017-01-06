@@ -1,0 +1,103 @@
+<div class='yybox'>
+<div class="l-top">
+  <i class='yo-ico icon-back le'  action-type="back">
+  </i>
+  <span>穿戴设备</span>
+  <b class='l-b'>fff</b>
+</div>
+<div class="yyboxdiv" spa-widget='scroll'>
+<div class="">
+<ul class="pa">
+  <li action-type='w.list'>
+    <img src="/chuangq/img/2.png" alt="" />
+    <p  class="apply-p1"><span>Apple Watch Nike+</span><i class='yo-ico icon-dianzan'></i></p>
+    <div class="apply-p2"><div><span></span></div><b>85%</b></div>
+    <p class="apply-p3">
+      <span>10-30</span>
+      <span>19:19</span>
+      <span>Series 2</span>
+      <span><i class="yo-ico icon-chakan"></i><i>288人</i></span>
+    </p>
+  </li>
+</ul>
+
+
+<section class='ls4'>
+  <b>|</b><span>产品介绍</span>
+</section>
+<section class='ls5'>
+  按照 IEC 60529 标准，Apple Watch Series 1 的防水级别为 IPX7。Apple Watch Series 1 虽防溅耐水，但不建议将其浸入水中。
+Apple Watch Series 2 按照 ISO 22810:2010 标准，防水达到 50 米；按照 GB4208-2008/IEC 60529:2001 标准，防水级别为 IPX8 (在最深为 3 米的水下停留时间最长可达 30 分钟)。即 Apple Watch Series 2 可用于游泳池或海滨游泳等较浅水域的水上活动，也可在淋浴或浴缸热水浴时佩戴使用。但 Apple Watch Series 2 并不适用于水肺潜水、滑水、面对高速水流的各种涉水活动及深水活动。
+皮革表带和不锈钢表带均不防水。
+Hermès 爱马仕运动表带：接触海水或汗水后，请用湿布清洁表扣。
+</section>
+<section class='ls4'>
+  <b>|</b><span>产品参数</span>
+</section>
+<section class='ls6'>
+  <p><span>高度：</span><span>42.5 毫米</span></p>
+  <p><span>宽度：</span><span>36.4 毫米</span></p>
+  <p><span>厚度：</span><span>11.4 毫米</span></p>
+  <p><span>表壳重量：</span><span>34.2 克</span></p>
+  <p><span>表背：</span><span>陶瓷</span></p>
+  <p><span>防水：</span><span>50 米</span></p>
+  <p><span>内置：</span><span>心率传感器、加速感应器和陀螺仪</span></p>
+</section>
+
+
+<div class="sf-l-pi">
+  <span></span><i>评论</i>
+</div>
+<section class='sf-l-s'>
+  <div class="sf-l-se">
+    <img src="/chuangq/img/2.png" alt="" />
+    <span class='s1'>蓝天白云</span>
+
+    <span class='s2'> |  金牌教练</span>
+  </div>
+  <div class="sf-l-p">
+    <p>
+      文章不错，很明确的解释了马拉松的相关原理，继续努力，加油加油
+    </p>
+    <div><span>2016-8-9</span></div>
+  </div>
+</section>
+<section class='sf-l-s'>
+  <div class="sf-l-se">
+    <img src="/chuangq/img/1.png" alt="" />
+    <span class='s1'>流光</span>
+    <span class='s2'> | 一级教练</span>
+  </div>
+  <div class="sf-l-p">
+    <p>
+      再接再厉，马拉松运动是一项长距离有氧运动，比赛前必须刺激运动中枢神经的兴奋灶，
+    </p>
+    <div><span>2016-8-4</span></div>
+  </div>
+</section>
+<section class='sf-l-s messagebox'>
+  <div class="sf-l-se">
+    <img src="/chuangq/img/3.png" alt="" />
+    <span class='s1'>大树</span>
+    <span class='s2'>  | 金牌达人</span>
+  </div>
+  <div class="sf-l-p">
+    <p>
+      参加马拉松比赛前几天一定要进行身体检查，以防参赛过程中发生意外事故。
+    </p>
+    <div><span>2016-2-9</span></div>
+  </div>
+</section>
+</div>
+</div>
+<section class='sf-l-c'>
+  <i class='yo-ico icon-xihuan fi'></i>
+  <div class="">
+    <input type="text" class="text" value="">
+    <i class='yo-ico icon-question la'></i>
+  </div>
+  <div class="er">
+    购 买
+  </div>
+</section>
+</div>

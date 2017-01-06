@@ -1,0 +1,89 @@
+<div class='lsbox0'>
+<div class="lsmal0" spa-widget='scroll'>
+  <div class="">
+  <header class='list-h'>
+      <i class="yo-ico icon-back" action-type="back"></i>
+      <img ms-src="detail.imgsrc" alt="" />
+      <p ms-text="detail.title" class='p1'></p>
+      <p class='p2'>
+        <span>10-30</span>
+        <span>19:16</span>
+        <span>中国工业网</span>
+      </p>
+      <div class='rgb'></div>
+  </header>
+    <section class='sf-l-fi'>
+      <p>
+        wu压力传感器是使用最为广泛的一种传感器。传统的压力传感器以机械结
+        构型的器件为主，以弹性元件的形变指示压力，但这种结构尺寸大、质量
+        重，不能提供电学输出。随着半导体技术的发展，半导体压力传感器也应
+        运而生。其特点是体积小、质量轻、准确度高、温度特性好。特别是随着MEMS
+        技术的发展，半导体传感器向着微型化发展，而且其功耗小、可靠性高。
+      </p>
+    </section>
+    <section class='com1'>
+      <img src="/chuangq/img/1.png" alt="" />
+      <div class="com-r" action-type='g.x'>
+        <p class='p1'><b>阿塔其集公司</b><i class='yo-ico icon-aright'></i></p>
+        <span class='com-sp'>fmakf gshhs</span>
+        <p class='p2'>
+          传感器是使用最为广泛的一种传形变
+        </p>
+      </div>
+    </section>
+    <div class="sf-l-pi">
+      评论
+    </div>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+  </div>
+</div>
+<section class='sf-l-b'>
+  <i class='yo-ico icon-xihuan fi'></i>
+  <div class="">
+    <input type="text" class="text" value="">
+    <i class='yo-ico icon-question la'></i>
+  </div>
+
+</section>
+</div>

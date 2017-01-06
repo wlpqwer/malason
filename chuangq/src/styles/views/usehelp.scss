@@ -1,0 +1,40 @@
+.helpbox{
+  height:100%;
+  width:100%;
+  @include flexbox();
+  @include flex-direction(column);
+  section{
+    width:100%!important;
+    @include flex();
+    overflow:hidden;
+  }
+}
+.lp-use{
+    text-align: center;
+    line-height: .44rem;
+    @include border(0 0 .01rem 0,#b3b3b3,solid);
+    height:.44rem;
+    padding: 0 .1rem; font-size: .18rem; color: #595959;
+    b{color:#ffffff;float:right;}
+    span,i{font-weight:bold;}
+  }
+.lp-use i{font-size: 24px;float:left;}
+
+.mine-box{ background: #fff; padding: .2rem .15rem;}
+.mine-box h3{
+    color: #141414; font-size: .22rem;
+  }
+.mine-box div{
+   color: #333333; font-size: .16rem;
+   margin: .16rem 0;
+ }
+.mine-box .mine_contnet .usp1{
+    font-size: .18rem;
+    color: #484848;
+    font-size:.17rem;
+    font-weight:bold;
+    padding:0;
+ }
+.mine-box .mine_contnet h3{ font-size: .16rem; color: #3e3e3e; padding: .28rem 0;}
+.mine-box .mine_contnet .usp2{ color: #3e3e3e; font-size: .16rem;padding:0}
+.mine-box .mine_contnet .imgsty{ width: 2.5rem; height: 2.37rem; margin: .45rem auto; display: block;}

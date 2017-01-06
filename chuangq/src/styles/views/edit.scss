@@ -1,0 +1,39 @@
+@include yo-switch(
+    $name: tes,
+    $checked-bgcolor:#2d74ff,
+    $ball-color:#ffffff
+)
+.editbox{
+  background:#f7f7f7;
+  .l-top{
+    background:#ffffff;
+  }
+}
+.edit_items{ background: #fff; padding: .1rem .15rem; margin-bottom: .1rem;}
+.edit_items .change_icon{ display: flex; justify-content: center; align-items: center;}
+.edit_items .change_icon p{ flex-grow: 1; font-size: .15rem; color: #999999;}
+.edit_items .change_icon .icon_img{ width: .53rem; border-radius: 50%; overflow: hidden; position: relative;}
+.edit_items .change_icon .icon_img img{ width: 100%;}
+.edit_items .change_icon .icon_img .update_img{ width: .53rem; height: .53rem; background: none; position: absolute; top: 0; left: 0; text-indent: -999px;}
+
+.edit_items .change_info p{ font-size: .15rem; color: #999999; padding: 0 0 .05rem 0;}
+.edit_items .change_info input.info_item{ border: none; background: none; border-radius: 0; font-size: .14rem; color: #333333; width: 100%;}
+.edit_items .change_info input::-webkit-input-placeholder{ color: #333333;}
+.edit_items .change_info textarea{ border: 1px solid #e6e6e6; border-radius: 8px; resize: none; width: 100%; padding: .08rem .05rem; font-size: .14rem;}
+.edit_items .change_info textarea::-webkit-input-placeholder{ color: #333333;}
+.edit_lp{
+  background: #ffffff; padding: .1rem .15rem;
+   display: flex; justify-content: center;
+   color: #333333; align-items: center;
+   border-bottom: 1px solid #dcdcdc;
+   input{
+     border:0;background:#f7f7f7;width:.5rem;text-align:center;
+   }
+ }
+.border_st1{border-top:.1rem solid #f7f7f7;}
+.edit_lp span:nth-of-type(2){ background: #f7f7f7; padding: .05rem; border-radius: 8px;margin: 0 .1rem;}
+.edit_lp span:last-of-type{ flex-grow: 1;}
+.edit_lp label{}
+.edit_lp em{ color: #2d74ff; margin: 0 .1rem; flex-grow: 1;}
+.lp-btn{display: flex; justify-content: center;background:#f7f7f7;}
+.save_btn{ background: #2d74ff; color: #fff; width: 1.5rem; height: .44rem; border-radius: 8px; border: none; margin: .14rem 0;}

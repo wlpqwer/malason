@@ -1,0 +1,85 @@
+<header class='list-h'>
+    <i class="yo-ico icon-back" action-type="back"></i>
+    <div><img ms-src="detail.imgsrc"  alt="" /></div>
+    <p ms-text="detail.title" class='p1'></p>
+    <p class='p2'>
+      <span ms-text='detail.date'></span>
+      <span ms-text='detail.time'></span>
+      <span ms-text='detail.from'></span>
+    </p>
+</header>
+<div class="" spa-widget='scroll'>
+  <div class="">
+    <section class='sf-l-fi'>
+      <p>
+        <span ms-text='detail.book'></span>
+      </p>
+    </section>
+    <div class="sf-l-pi">
+      评论
+    </div>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s messagebox'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+  </div>
+</div>
+<section class='sf-l-b'>
+  <i class='yo-ico icon-xihuan fi'></i>
+  <div class="">
+    <input type="text" class="text" value="">
+
+  </div><i class='yo-ico icon-question la'></i>
+</section>

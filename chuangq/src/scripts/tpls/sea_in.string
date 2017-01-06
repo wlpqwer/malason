@@ -1,0 +1,63 @@
+<div class="search_wrap_q">
+	<div class="input_box_q">
+		<i class='yo-ico icon-back' action-type='ss'></i>
+			<div><i class='yo-ico icon-sousuo za s'></i><input type="text" name="name" value=""></div>
+		<i class='za'>搜索</i>
+	</div>
+		<section spa-widget='scroll' class='sediv'>
+			<div>
+				<div class="relate_q">
+				<h2>相关教练</h2>
+				<ul>
+					<li>
+						<div class="img_sty2">
+							<img src="/chuangq/img/d3.png" class="w_sty" />
+						</div>
+						<h3>Bingtian Su</h3>
+						<p>一级运动员 国家队</p>
+					</li>
+					<li>
+						<div class="img_sty2">
+							<img src="/chuangq/img/d4.png" class="w_sty" />
+						</div>
+						<h3>吴丽萍</h3>
+						<p>二级运动员 省队</p>
+					</li>
+					<li>
+						<div class="img_sty2">
+							<img src="/chuangq/img/d5.png" class="w_sty" />
+						</div>
+						<h3>周春秀</h3>
+						<p>三级运动员 市队</p>
+					</li>
+				<p class="clear"></p>
+				</ul>
+			</div>
+
+			<div class="relate_q">
+				<h2>相关文章</h2>
+				<dl class="wz_block" action-type='g.xqq'>
+					<dt><img src="/chuangq/img/1.png" class="w_sty" /></dt>
+					<dd>
+						<h2>马拉松全程是多少，跑完全程能够起到减肥的作用吗？</h2>
+						<p>马拉松运动是一项挑战人体生命极限的运动，比赛中意外情况...</p>
+					</dd>
+				</dl>
+				<dl class="wz_block">
+					<dt><img src="/chuangq/img/2.png" class="w_sty" /></dt>
+					<dd>
+						<h2>马拉松全程是多少，跑完全程能够起到减肥的作用吗？</h2>
+						<p>马拉松运动是一项挑战人体生命极限的运动，比赛中意外情况...</p>
+					</dd>
+				</dl>
+				<dl class="wz_block">
+					<dt><img src="/chuangq/img/3.png" class="w_sty" /></dt>
+					<dd>
+						<h2>马拉松全程是多少，跑完全程能够起到减肥的作用吗？</h2>
+						<p>马拉松运动是一项挑战人体生命极限的运动，比赛中意外情况...</p>
+					</dd>
+				</dl>
+			</div>
+		</div>
+		</section>
+</div>

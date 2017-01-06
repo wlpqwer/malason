@@ -1,0 +1,26 @@
+
+#choose_way,#choose_way2{ background: #f2f9fc;}
+.wayList{ display: flex; justify-content: center; align-items: center;  margin: .14rem 0; }
+.wayList span{ width: .44rem; height: .22rem; line-height: .22rem; color: #2d74ff; font-size: .11rem; display: block; text-align: center; margin: 0 .05rem;}
+.wayList span.active{ background: #2d74ff; color: #fff; border-radius: 20px; }
+
+.staticPlay_sty .voice{ text-align: center; padding: .6rem 0;}
+.staticPlay_sty .voice span{ width: .63rem; display: block; margin: 0 auto; box-shadow: 0px 1px 18px 5px #c5e8f6; border-radius: 50%; overflow: hidden;}
+.staticPlay_sty .voice span img{ width: 100%;}
+.staticPlay_sty .voice p{ font-size: .11rem; color: #999999; padding-top: .15rem; }
+.staticPlay_sty .multi-row{ margin: 0 .1rem; position: relative;  border: 1px solid #ededed; background: #fff;}
+.staticPlay_sty .multi-row textarea{ resize: none; width: 100%; height: 1.79rem; padding: .1rem .08rem; color: #b2b2b2; border: none;}
+.staticPlay_sty .multi-row textarea::-webkit-input-placeholder{ color: #b2b2b2;}
+.staticPlay_sty .multi-row i{ font-size: 32px; position: absolute; top: .1rem; left: .18rem; width: .3rm; height: .3rem;}
+.staticPlay_sty .multi-row p{text-align: right; color: #b2b2b2; font-size: .12rem; padding: 0 .1rem;}
+.rebtm{
+  width:33vw;
+  height:.4rem;
+  background:#2d74ff;
+  border-radius:.05rem;
+  color:#ffffff;
+  text-align:center;
+  line-height:.4rem;
+  margin:0 auto;
+  margin-top:.2rem;
+}

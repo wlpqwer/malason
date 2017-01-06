@@ -1,0 +1,20 @@
+.header{ height: .44rem;  border-bottom:1px solid #e6e6e6; background: #fff; display: flex; justify-content: center; align-items: center; padding: 0 .15rem; font-size: .18rem; color: #595959;}
+.header i{font-size: 24px; color: #2d74ff;}
+
+
+.header .heder-text{ flex-grow: 1; text-align: center; color: #2d74ff; font-size: .17rem;}
+
+.sendXS{ background: #fff; padding: 0 .1rem; overflow: hidden;}
+.sendXS .xs_text{ margin: .2rem 0;  border: 1px solid #e6e6e6; border-radius: 8px; overflow: hidden; background: #f7f7f7; font-size: .14rem; color: #b2b2b2;  padding: .13rem 0;}
+.sendXS .xs_text textarea{ border: none; width: 100%; resize: none; background: #F7F7F7; padding: 0 .15rem;}
+.sendXS .xs_text textarea::-webkit-input-placeholder{ color: #B2B2B2;}
+.sendXS .xs_text p{ padding: 0 .15rem; text-align: right;}
+
+.sendXS .get_money{ display: flex; justify-content: center; align-items: center; font-size: .14rem; color: #333333; padding: 0 .05rem;}
+.sendXS .get_money span{}
+.sendXS .get_money span:last-of-type{flex-grow: 1;}
+.sendXS .get_money input.num{ border: 1px solid #D9D9D9; width: .7rem; height: .32rem; border-radius: 5px; margin: 0 .1rem; text-align: center; color: #bfbfbf;}
+.sendXS .get_money input::-webkit-input-placeholder{ color: #bfbfbf;}
+.sendXS .group_box{ text-align: center; padding-bottom: .3rem; font-size: .14rem;}
+.sendXS .group_box .send_btn{ width: .81rem; height: .34rem; background: #2d74ff; color: #fff;  border: none; border-radius: 5px; margin-top: .3rem;}
+.sendXS .group_box p{ color: #e94848; padding-bottom: .3rem;}

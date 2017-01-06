@@ -1,0 +1,46 @@
+<div class='base' action-type='hid'>
+  <div class="help">
+      <p>全程都是42.195千米，这是世界上通用的，也是田径运动所定义的距离。当然好多马拉松比赛中都会有半程马拉松跑和10公里跑等等。是为了纪念希腊打败罗马胜利以后传达胜利消息的人，这个人叫马拉松，他从战场跑回国的距离是42公里零195米，事实上他在跑回国前一小时已经疲劳而死，但他还是凭借潜意识跑到国家。 </p>
+  </div>
+</div>
+<div class='senbox1'>
+    <div class="l-top">
+      <i class='yo-ico icon-back le'  action-type="se.ba">
+      </i>
+      <span>提出的问题</span>
+      <b class='l-b'>fff</b>
+    </div>
+    <div class="senboxdiv1" spa-widget='scroll'>
+					<div class="question-group ">
+						<div class="question_items ">
+							<div class="user_info ">
+								<p class="icon_text ">
+									<span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+									<span class="text-icon ">万能的丛思佳</span>
+								</p>
+								<em class="cost ">￥8.88</em>
+							</div>
+							<p class="problem">在现代，跑马拉松是件比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+							<div class="click_look ">
+								<span><img src="/chuangq/img/icon2.png" /></span>
+								<div class="look_wz ">
+									<i class="yo-ico icon-wenben "></i>
+									<p>点击查看</p>
+                  <div class="emp1" action-type='lis11'>
+
+                  </div>
+								</div>
+							</div>
+							<div class="border_sty ">
+								<p>
+									<span>3天前</span>
+									<span>听过13</span>
+									<span><i class="yo-ico icon-dianzan dz"></i>9</span>
+								</p>
+							</div>
+						</div>
+
+					</div>
+
+    </div>
+</div>

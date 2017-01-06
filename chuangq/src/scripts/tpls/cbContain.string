@@ -1,0 +1,28 @@
+<div class='conbox'>
+  <div class="l-top">
+    <i class='yo-ico icon-back le'  action-type="back">
+    </i>
+    <span>我的收藏</span>
+    <b class='l-b'>fff</b>
+  </div>
+  <div class='conboxdiv'>
+    <div class="cbListContain" id='swf'>
+        <div class="cbbb cbdContain active" action-type='swiwx' data-name='cbShou'>
+          <span>文献资料</span>
+        </div>
+        <div class="cbbb cbdContain"  action-type='swiwx' data-name='cbQyCp'>
+          <span>产品简介</span>
+        </div>
+        <div class="cbbb cbdContain"  action-type='swiwx' data-name='cbQyZx'>
+          <span>新闻资讯</span>
+        </div>
+        <div class="cbbb cbdContain"  action-type='swiwx' data-name='cbQyYy'>
+          <span>应用场景</span>
+        </div>
+    </div>
+  </div>
+
+  <div id='detail-wx' class="">
+
+  </div>
+</div>

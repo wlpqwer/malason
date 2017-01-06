@@ -1,0 +1,31 @@
+
+<div class='qybox'>
+    <header>
+      <b class="yo-ico icon-back bk" action-type="back"></b>
+      <span class="cen">惠普中国</span>
+      <span class='yo-ico icon-sousuo ri' action-type='cb.ss'></span>
+    </header>
+    <section>
+    <div class="swiper-container cbListSe" id='Qy-swiper' style='overflow:hidden'>
+          <div class="swiper-wrapper" id="founddiv">
+    				<div class="swiper-slide found-sweiper cbbb active cbd"  action-type='switchCbQy' data-name='cbQyZ'>
+    					企业介绍
+    				</div>
+    				<div class="swiper-slide cbbb cbd" action-type='switchCbQy' data-name='cbQyCp'>
+    					产品简介
+    				</div>
+    				<div class="swiper-slide cbbb cbd" action-type='switchCbQy' data-name='cbQyZx'>
+    					最新资讯
+    				</div>
+    				<div class="swiper-slide cbbb cbd" action-type='switchCbQy' data-name='cbQyYy'>
+    					应用场景
+    				</div>
+    				<div class="swiper-slide cbbb cbd lasts" action-type='switchCbQy' data-name='cbQyFb'>
+    					企业发布
+    				</div>
+        </div>
+    </div>
+      <div id="CbConFoun" >
+      </div>
+    </section>
+</div>

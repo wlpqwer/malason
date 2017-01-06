@@ -1,0 +1,51 @@
+<div class="resbox">
+    <header class="hea ">
+    <i class="yo-ico icon-back bon" action-type="to.re.b"></i>
+    <div class="heder-text ">抢答悬赏</div>
+  </header>
+  <div class="question-group resboxdiv" spa-widget='scroll'>
+    <div>
+    <div class="question_items born">
+      <div class="user_info ">
+        <p class="icon_text ">
+          <span class="img-icon "><img src="/chuangq/img/icon.jpg" /></span>
+          <span class="text-icon ">万能的丛思佳</span>
+        </p>
+        <em class="cost ">￥20</em>
+      </div>
+      <p class="problem ">跑马拉松的时候有哪些基本常识需要注意的，有哪些基本常识尤为重要？</p>
+      <div class="problem_static ">
+        <p>
+          <span>还剩47小时</span>
+        </p>
+      </div>
+    </div>
+
+    <div class="swiper-container " id="choose_way">
+      <div class="wayList ">
+        <span class="active ">语音</span>
+        <span>文字</span>
+      </div>
+      <div class="swiper-wrapper ">
+          <div class="swiper-slide staticPlay_sty swiper-no-swiping ">
+            <div class="voice ">
+              <span><img src="/chuangq/img/voice_btn.png" /></span>
+              <p>点击开始录音，最多可录制60”</p>
+            </div>
+          </div>
+          <div class="swiper-slide staticPlay_sty swiper-no-swiping ">
+            <div class="multi-row ">
+              <i class="yo-ico icon-bi "></i>
+              <textarea placeholder="写回答"></textarea>
+              <p>0/300</p>
+            </div>
+          </div>
+      </div>
+    </div>
+
+    <div class='rebtm'>
+      确定
+    </div>
+  </div>
+  </div>
+</div>

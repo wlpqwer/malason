@@ -1,0 +1,99 @@
+<div class='cbbox'>
+<header class='cbhe'>
+  <i>fff</i>
+  <span class="cen">Marathon</span>
+  <span class='yo-ico icon-sousuo ri' action-type='t.f'></span>
+</header>
+<div class="container cbboxs" spa-widget="scroll" data-scroll-id="cbScrollFound">
+    <div class="content list">
+        <div class="infinite-list cblistBox">
+        	<div class="cbListSeQW">
+        		<div class="qiyeCb active">
+        			<i class='yo-ico icon-iconziti29'></i><span>文献</span>
+        		</div>
+        		<div class="qiyeCb" >
+        			<i class='yo-ico icon-609paoyou'></i><span>跑团</span>
+        		</div>
+            <div class="qiyeCb" >
+        			<i class='yo-ico icon-kechengjiaolianguanli'></i><span>教练</span>
+        		</div>
+            <div class="qiyeCb borl" >
+        			<i class='yo-ico icon-shebeileixing'></i><span>器材</span>
+        		</div>
+        	</div>
+
+        	<div class="swiper-container" id="cbFoundListOwn-swiper">
+			  <div class="swiper-wrapper"  style="width: 100vw;">
+			    <div class="swiper-slide">
+			      <!-- <section spa-widget="scroll" data-scroll-id="cbScrollFound">
+			        <div> -->
+			            <div class="liBox" >
+			                <a class="item-content foco" action-type="goCBDetail" ms-repeat-fo="cbListFou" ms-attr-data-id="fo.id">
+			                    <div class="item-media"><img ms-src="fo.head" alt=""></div>
+			                    <div class="item-inner">
+			                        <div class="item-title til" ms-text='fo.title'></div>
+			                    </div>
+			                </a>
+			            </div>
+			        <!-- </div>
+			      </section> -->
+			    </div>
+			    <div class="swiper-slide">
+			    	<!-- <section spa-widget="scroll" data-scroll-id="cbScrollFound">
+			        <div> -->
+			            <div class="liBox" >
+			                <a class="item-content" action-type="goCBWXLi" ms-repeat-el="cbListFoundW" ms-attr-data-id="el.id">
+			                    <div class="item-media"><img ms-src="el.imgsrc" alt=""></div>
+			                    <div class="item-inner">
+                            <div class="item-title til" ms-text="el.tit3"></div>
+			                      <p>
+
+                            </p>
+			                    </div>
+			                </a>
+			            </div>
+			        <!-- </div>
+			      </section> -->
+			    </div>
+          <div class="swiper-slide">
+            <!-- <section spa-widget="scroll" data-scroll-id="cbScrollFound">
+              <div> -->
+                  <div class="liBox" >
+                      <a class="item-content" action-type="goCBWXList" ms-repeat-el="cbListFoundW" ms-attr-data-id="el.id">
+                          <div class="item-media"><img ms-src="el.imgsrc" alt=""></div>
+                          <div class="item-inner">
+                            <div class="item-title til" ms-text="el.tit1"></div>
+                            <p>
+
+                            </p>
+                          </div>
+                      </a>
+                  </div>
+              <!-- </div>
+            </section> -->
+          </div>
+          <div class="swiper-slide">
+			    	<!-- <section spa-widget="scroll" data-scroll-id="cbScrollFound">
+			        <div> -->
+			            <div class="liBox"  >
+			                <a class="item-content" action-type="goCBWX" ms-repeat-el="cbListFoundW" ms-attr-data-id="el.id">
+			                    <div class="item-media"><img ms-src="el.imgsrc" alt=""></div>
+			                    <div class="item-inner">
+                            <div class="item-title til" ms-text="el.tit2"></div>
+			                      <p>
+
+                            </p>
+			                    </div>
+			                </a>
+			            </div>
+			        <!-- </div>
+			      </section> -->
+			    </div>
+
+			  </div>
+			</div>
+        </div>
+
+    </div>
+</div>
+</div>

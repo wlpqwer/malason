@@ -1,0 +1,56 @@
+
+		<div class="l-top">
+		  <i class='yo-ico icon-back le'  action-type="m.b">
+		  </i>
+		  <span>充值帮助</span>
+		  <b class='l-b'>fff</b>
+		</div>
+		<div spa-widget='scroll'>
+		<form class="add-money-box " method="post">
+			<div class="money_tip ">
+				<div class="quantity ">
+					当前剩余<span>400金币</span>
+				</div>
+				<p>金币不可提现和退款，解释权归GIM所有</p>
+			</div>
+
+			<div class="add_item_box ">
+				<h3>选择金币数额</h3>
+				<div class="choose_sort ">
+					<div class="sort_box1 ">
+						<div class="sort_text ">600金币<span>6</span>元</div>
+						<div class="yo-checked yo-checked-test">
+						    <input type="radio" name="project" />
+						    <span class="type "></span>
+						</div>
+					</div>
+
+					<div class="sort_box1 ">
+						<div class="sort_text ">1200金币<span>12</span>元</div>
+						<div class="yo-checked yo-checked-test">
+						    <input type="radio" name="project" checked />
+						    <span class="type "></span>
+						</div>
+					</div>
+
+					<div class="sort_box1 ">
+						<div class="sort_text ">5000金币<span>50</span>元</div>
+						<div class="yo-checked yo-checked-test">
+						    <input type="radio" name="project"  />
+						    <span class="type "></span>
+						</div>
+					</div>
+				</div>
+			</div>
+
+
+			<div class="add_item_box ">
+				<h3>选择支付方式</h3>
+				<div class="total_num ">总计 ：<span>¥50</span></div>
+			</div>
+
+			<div class="b-n">
+				<span class="save_btn"><img src="/chuangq/img/weixin.png" alt="" /><b>微信支付</b></span>
+			</div>
+		</form>
+		</div>

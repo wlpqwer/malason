@@ -1,0 +1,21 @@
+.cbtitle{
+  font-size: .18rem;font-weight:bold;
+}
+.cbListContain{
+  div{float:left;width:25vw;text-align:center;}
+  font-size: .14rem;
+  height:.44rem;line-height: .44rem;
+  .cbbb.active{
+      color: #2d74ff;
+      span{border-bottom: 2px solid #2d74ff;}
+  }
+}
+.contentBoCb{
+  // padding:.1rem;
+}
+#detail-wx{
+  height:100%;
+  spa-view{
+    position:static;
+  }
+}

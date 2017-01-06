@@ -1,0 +1,19 @@
+<div class='helpbox'>
+		<header class='lp-use'>
+			<i class="yo-ico icon-back " action-type="to.usba"></i>
+			<span class="heder-text ">使用帮助</span>
+			<b>ff</b>
+		</header>
+		<section spa-widget='scroll'>
+			<div class="mine-box ">
+				<h3>马拉松导航使用手册</h3>
+				<div>2016-07-11 马拉松导航</div>
+				<div class="mine_contnet ">
+					<p class='usp1'>关于开通马拉松导航、头衔、自我介绍、价格设置</p>
+					<h3>1、如何开通马拉松导航</h3>
+					<p class='usp2'>关注马拉松导航公众号（ID：4487442874826）直接扫描下方二维码即可关注，然后点击底部菜单，进入马拉松导航页面；</p>
+					<img class="imgsty" src="/chuangq/img/scanner.jpg" />
+				</div>
+			</div>
+		</section>
+</div>

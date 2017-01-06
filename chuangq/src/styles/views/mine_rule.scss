@@ -1,0 +1,28 @@
+.rubox{
+  height:100%;width:100%;
+  @include flexbox();
+  @include flex-direction(column);
+  section{
+     width:100%!important;
+     @include flex();
+     overflow:hidden;
+  }
+}
+#lprule{
+    line-height: .44rem;
+    height:.44rem;
+    @include border(0 0 .01rem 0,#b3b3b3,solid);
+    background: #fff;  font-size: .18rem; color: #595959;
+    text-align:center;
+    b{float:right;color:#ffffff;}
+  }
+#lprule i{font-size: 24px;float:left;font-weight:bold;}
+#lprule .heder-text{ font-weight:bold;text-align: center;display:inline-block;margin:0 auto;}
+
+.mine-box{ background: #fff; padding: .2rem .15rem;}
+.mine-box h1{ text-align: center; font-size: .15rem; color: #2d74ff; padding-bottom: .12rem;}
+.mine-box h1.nopadd{ padding: 0;}
+.mine-box span{ color: #333333; font-size: .11rem; display: block; text-align: center;}
+.mine-box .mine_contnet{margin-top: .08rem; }
+.mine-box .mine_contnet h2{ font-size: .16rem; font-weight: 600; color: #666666; padding-top: .28rem;}
+.mine-box .mine_contnet p{ color: #666666; font-size: .14rem; padding-top: .12rem;}

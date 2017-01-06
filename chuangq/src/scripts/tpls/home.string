@@ -1,0 +1,96 @@
+<div id="home-container">
+	<header>
+		<i>fff</i>
+		<span class="cen">Marathon</span>
+		<span class='yo-ico icon-sousuo ri' action-type='h.search'></span>
+	</header>
+	<section spa-widget='scroll' data-scroll-id="myScroll">
+		<!-- 轮播 -->
+		<div class="scroll wsf">
+			<div class="head">
+			 <img src="/chuangq/img/arrow.png"/>
+			 <span>下拉刷新...</span>
+		 </div>
+		 <!-- banner -->
+			<div class="swiper-container banner" id='home-swiper'>
+				<div class="swiper-wrapper" id="homediv">
+					<div class="swiper-slide home-sweiper" ms-repeat-ba='banner' ms-attr-data-id='ba.id' action-type='g.banner'>
+						<img ms-src="ba.imgsrc" alt='b1'/>
+					</div>
+				</div>
+				<div class="swiper-pagination" id="swibtm"></div>
+			</div>
+			<!-- <ul class='ul-page'>
+				<li ms-repeat-ft='ft' action-type='h.l'><img ms-src='ft.icon'/><span ms-text='ft.title'></span></li>
+			</ul> -->
+			<div class="read">
+				<img src="/chuangq/img/icon/barl.png" alt="" />
+					<span>精选阅读</span>
+				<img src="/chuangq/img/icon/barr.png" alt="" />
+			</div>
+			<!-- 精选阅读 -->
+			<div class="swiper-container" id="newswei">
+			 <div class="swiper-wrapper" id="bigcp">
+				 <div style='overflow:hidden' class="swiper-slide" ms-repeat-el="read" action-type="goto.detail" ms-attr-data-id="el.id">
+					 <img ms-src="el.imgsrc" />
+					 <p class="p1" ms-text="el.title"></p>
+					 <span class="p2" ms-text="el.para"></span>
+				 </div>
+			 </div>
+			</div>
+			<!-- 明星跑团 -->
+			<div class="user">
+				<img src="/chuangq/img/icon/barl.png" alt="" />
+					<span>明星跑团</span>
+				<img src="/chuangq/img/icon/barr.png" alt="" />
+			</div>
+			<div class="swiper-container" id="swiper3">
+			 <div class="swiper-wrapper" id="bigcp3">
+				 <div class="swiper-slide" ms-repeat-pr="pro" action-type='t.l1' ms-attr-data-id='pr.id'>
+					 <img ms-src="pr.imgsrc" alt='b1'/>
+					 <p class="p1" ms-text="pr.title"></p>
+					 <p class="p2" ms-text="pr.para"></p>
+				 </div>
+			 </div>
+			</div>
+<!--金牌教练  -->
+			<div class="user">
+				<img src="/chuangq/img/icon/barl.png" alt="" />
+					<span>金牌教练</span>
+				<img src="/chuangq/img/icon/barr.png" alt="" />
+			</div>
+			<div class="swiper-container" id="swiper4">
+			 <div class="swiper-wrapper" id="bigcp4">
+				 <div class="swiper-slide" ms-repeat-pr="pro1" action-type='t.l2' ms-attr-data-id='pr.id'>
+					 <img ms-src="pr.imgsrc" alt='b1'/>
+					 <p class="p1" ms-text="pr.title"></p>
+					 <p class="p2" ms-text="pr.para"></p>
+				 </div>
+			 </div>
+			</div>
+			<!-- 最新应用 -->
+			<div class="apply">
+				<img src="/chuangq/img/icon/barl.png" alt="" />
+					<span>穿戴设备</span>
+				<img src="/chuangq/img/icon/barr.png" alt="" />
+			</div>
+			<ul class="ul-ap">
+				<li action-type='w.list' ms-repeat-pm='yy'>
+					<img ms-src="pm.img" alt="" />
+					<p class="apply-p1"><span ms-text='pm.title'></span><i class='yo-ico icon-dianzan zan'></i></p>
+					<div class="apply-p2"><div><span></span></div><b ms-text='pm.count'></b></div>
+					<p class="apply-p3">
+						<span><i class="yo-ico icon-chakan apply-p3-1"></i><b ms-text='pm.eye'>人</b></span>
+						<span><i class="yo-ico icon-xihuan"></i><b ms-text='pm.xin'>人</b></span>
+						<span><i class="yo-ico icon-pinglun"></i><b ms-text='pm.mes'>人</b></span>
+					</p>
+				</li>
+			</ul>
+			<div class="foot">
+			   <img src="/chuangq/img/arrow.png"/>
+			   <span>上拉加载更多...</span>
+			 </div>
+		</div>
+	</section>
+
+</div>

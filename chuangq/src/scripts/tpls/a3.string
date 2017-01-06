@@ -1,0 +1,104 @@
+<section spa-widget='scroll' data-scroll-id="aScroll3" class='abox'>
+<div class="ex">
+    <div class="ex-1">
+      <span>往期讨论></span>
+    </div>
+    <div class="ex-2">
+      <div class="ex-3"  action-type='go.d'>
+        <i class='yo-ico icon-iconfonthuida'></i>
+      </div>
+      <div class="ex-4">
+        点击我也来答
+      </div>
+      <p class='pz'>
+        在现代，跑马拉松是见比较普遍的事件吗？说说你身边有多少人跑马拉松的。
+      </p>
+    </div>
+    <div class="an-p">
+      <p><span>28</span>人已回答·听过<span>355</span>人</p>
+    </div>
+    <div class="sf-a-f">
+
+      <p class='p2'>
+        <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+      </p>
+      <div class="sf-a-lis">
+        <div class="sf-au">
+          <img src="/chuangq/img/8.png" class="sf-au-cir" />
+          <i class='yo-ico icon-yuyin'></i>
+          <span>限时免费听</span>
+        </div>
+        <span class='lisen'>听过<b>158</b></span>
+      </div>
+    </div>
+    <div class="sf-a-f">
+      <p class='p2'>
+        <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+      </p>
+      <div class="sf-a-lis">
+        <div class="sf-au">
+          <img src="/chuangq/img/8.png" class="sf-au-cir" />
+          <i class='yo-ico icon-yuyin'></i>
+          <span>限时免费听</span>
+        </div>
+        <span class='lisen'>听过<b>112</b></span>
+      </div>
+    </div>
+    <div class="sf-a-f">
+      <p class='p2'>
+        <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+      </p>
+      <div class="sf-a-lis">
+        <div class="sf-au">
+          <img src="/chuangq/img/8.png" class="sf-au-cir" />
+          <i class='yo-ico icon-yuyin'></i>
+          <span>限时免费听</span>
+        </div>
+        <span class='lisen'>听过<b>112</b></span>
+      </div>
+    </div>
+    <div class="sf-a-f">
+      <p class='p2'>
+        <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+      </p>
+      <div class="sf-a-lis">
+        <div class="sf-au">
+          <img src="/chuangq/img/8.png" class="sf-au-cir" />
+          <i class='yo-ico icon-yuyin'></i>
+          <span>限时免费听</span>
+        </div>
+        <span class='lisen'>听过<b>112</b></span>
+      </div>
+    </div>
+    <div class="sf-a-f">
+      <p class='p2'>
+        <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+      </p>
+      <div class="sf-a-lis">
+        <div class="sf-au">
+          <img src="/chuangq/img/8.png" class="sf-au-cir" />
+          <i class='yo-ico icon-yuyin'></i>
+          <span>限时免费听</span>
+        </div>
+        <span class='lisen'>听过<b>112</b></span>
+      </div>
+    </div>
+    <div class="sf-a-f">
+      <p class='p2'>
+        <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+      </p>
+      <div class="sf-a-lis">
+        <div class="sf-au">
+          <img src="/chuangq/img/8.png" class="sf-au-cir" />
+          <i class='yo-ico icon-yuyin'></i>
+          <span>限时免费听</span>
+        </div>
+        <span class='lisen'>听过<b>112</b></span>
+      </div>
+    </div>
+    <!-- <div class="foot">
+       <img src="/chuangq/img/arrow.png"/>
+       <span>上拉加载更多...</span>
+     </div> -->
+</div>
+</section>

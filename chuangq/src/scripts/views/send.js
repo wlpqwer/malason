@@ -1,0 +1,20 @@
+var sendTpl=require('../tpls/send.string');
+SPA.defineView("send",{
+  html:sendTpl,
+  plugins:['delegated'],
+  bindActions:{
+      "se.ba":function(){
+        this.hide();
+      },
+      'lis11':function(){
+    			$(".help").css({
+    				display:"block"
+    			});
+    			$(".base").show();
+      },
+      'hid':function(){
+        $(".help").hide();
+        $(".base").hide();
+      }
+  }
+})

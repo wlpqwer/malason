@@ -1,0 +1,29 @@
+<div class='seabox'>
+<div class="input_box_q">
+	<i class='yo-ico icon-back ss1' action-type='ss'></i>
+		<div><i class='yo-ico icon-sousuo za ss'></i><input type="text" name="name" value=""></div>
+	<i class='za'  action-type='s2'>搜索</i>
+</div>
+<div class="seaboxdiv" spa-widget='scroll'>
+  <div class="lsbox">
+		<div class="hot_search_q">
+			<p>热门搜索</p>
+			<i class="yo-ico icon-xiala"></i>
+			<ul>
+				<li>马拉松</li>
+				<li>Apple watch 2</li>
+				<li>苏炳添</li>
+				<li>跑团一</li>
+				<li>金牌教练</li>
+				<li>Apple watch 2</li>
+				<li>苏炳添</li>
+				<li>金牌教练</li>
+				<li>Apple watch 黑色</li>
+				<li>跑团一</li>
+				<li>苏炳添</li>
+				<li>Apple watch</li>
+			</ul>
+		</div>
+  </div>
+</div>
+</div>

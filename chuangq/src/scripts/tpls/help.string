@@ -1,0 +1,13 @@
+<div class="help-box">
+
+
+<header class="lp-header">
+    <i class="yo-ico icon-back wlp" action-type="help_bk"></i>
+    <div class="heder-text wlp">帮助</div>
+  </header>
+  <div class="help-group">
+    <p action-type="toUser"><span>用户协议</span><i class="yo-ico icon-aright wlp"></i></p>
+    <p action-type="toRule"><span>发布规则</span><i class="yo-ico icon-aright wlp"></i></p>
+    <p action-type="toUse"><span>使用帮助</span><i class="yo-ico icon-aright wlp"></i></p>
+  </div>
+</div>

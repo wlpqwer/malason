@@ -1,0 +1,43 @@
+<div class='wxbox'>
+<header>
+  <span action-type="back" class="yo-ico icon-back yi"></span>
+  <span class="cen ce" ms-text='el.title'>类一</span>
+  <span class='ff'>ff</span>
+</header>
+ <div class="container wxbig" spa-widget="scroll" data-scroll-id="cbScrollWx">
+
+    <div class="content list">
+      <div class="head">
+       <img src="/chuangq/img/arrow.png"/>
+       <span>下拉刷新...</span>
+      </div>
+        <section class='nibox' action-type="goCBFbDetail" ms-repeat-el="cbListWx" ms-attr-data-id="el.id">
+          <div class="nibox1">
+            <div class="lebox">
+              <div class="l-t">
+                <div class="l-t-l">
+                  <img ms-src="el.head"/>
+                </div>
+                <div class="l-t-r">
+                  <div class="nameWx" ms-text="el.name">伽伐哈哈你</div>
+                  <span class='ft1'>2016-11-04</span>
+                </div>
+              </div>
+              <div class="l-b" ms-text="el.tit">
+              </div>
+            </div>
+
+            <div class="ribox">
+              <img ms-src="el.imgsrc" alt="">
+            </div>
+          </div>
+          <div class="nibox2" ms-text="el.detail">
+          </div>
+        </section>
+       <div class="foot">
+			   <img src="/chuangq/img/arrow.png"/>
+			   <span>上拉加载更多...</span>
+			 </div>
+    </div>
+</div>
+</div>

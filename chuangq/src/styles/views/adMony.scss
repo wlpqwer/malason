@@ -1,0 +1,51 @@
+@include yo-checked(
+    $name: test,
+    $border-color: #b5b5b5,
+    $color:#ffffff,
+    $radius: 50%,
+    $border-width:.01rem,
+    $bgcolor:#ffffff,
+    $on-border-color:#e94848,
+    $on-color:#ffffff,
+    $on-bgcolor:#e94848
+    // $size:.2rem,
+    // $font-size:.2rem
+)
+.header{ height: .44rem;
+   border-bottom: 1px solid #b3b3b3;
+   background: #fff; display: flex;
+   justify-content: center; align-items: center;
+   padding: 0 .15rem; font-size: .18rem; color: #595959;
+  }
+.header i{font-size: 24px;}
+.header .heder-text{ flex-grow: 1; text-align: center;}
+
+.add-money-box{ background: #FFFFFF; overflow: hidden;}
+.money_tip{ padding: .2rem .15rem; background: #fff; color: #333333; font-size: .14rem;}
+.money_tip .quantity{ padding-bottom: .08rem;}
+.money_tip .quantity >span{ margin-left: .16rem; color: #e94848; font-size: .21rem;}
+
+.add_item_box h3{ font-size: .14rem; color: #999999; font-weight: normal;  padding: 0.1rem; background: #f6f6f6;}
+
+.add_item_box .choose_sort{ background: #fff; }
+.add_item_box .choose_sort .sort_box1{
+  display: flex; justify-content: center;
+  align-items: center; border-bottom: 1px solid #e5e5e5;
+   padding: .1rem 0; margin: 0 .15rem; font-size: .14rem;
+   input{
+     height:.4rem;display: inline-block;width:.4rem;
+   }
+ }
+.add_item_box .choose_sort .sort_box1 .sort_text{ flex-grow: 1;}
+
+
+.add_item_box .total_num{ padding: .24rem .15rem; color: #333333; font-size: .14rem; background: #fff;}
+.add_item_box .total_num span{ color: #e94848; font-size: .21rem;}
+
+.b-n{display: flex; justify-content: center; align-items: center;  height: .47rem;  color: #fff;margin: 0 auto .36rem;}
+.b-n i{ width: .29rem; height: .24rem; background: url(/img/weixin.png) no-repeat left center; background-size: 100% 100%; margin-right: .08rem;}
+.b-n .save_btn{ border: none; font-size: .18rem;display:block;background:#21b101;
+                text-align:center;line-height:.47rem;width:90vw;margin:0 5vw;
+                img{width:.3rem;}
+                b{margin-left:.1rem;font-weight:normal;}
+              }

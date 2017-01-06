@@ -1,0 +1,29 @@
+
+<div class='qybox'>
+    <header>
+      <b class="yo-ico icon-back bk" action-type="back"></b>
+      <span class="cen" style='color:#333333'>我的收藏</span>
+      <span class='yo-ico icon-sousuo ri yan' action-type='cb.ss'></span>
+    </header>
+    <section>
+    <div class="pa0 cbListSe">
+          <div class="led four1" id="founddiv1">
+
+    				<div class="cbbb active cbd" action-type='switchCbQy' data-name='cbQyFb'>
+    					文 献
+    				</div>
+    				<div class="cbbb cbd" action-type='switchCbQy' data-name='cbQyCp1'>
+    					跑 团
+    				</div>
+    				<div class="cbbb cbd" action-type='switchCbQy' data-name='cbQyCp00'>
+    					教 练
+    				</div>
+    				<div class="cbbb cbd lasts" action-type='switchCbQy' data-name='cbQyYy1'>
+    					器 材
+    				</div>
+        </div>
+    </div>
+      <div id="CbConFoun" >
+      </div>
+    </section>
+</div>

@@ -1,0 +1,30 @@
+
+<div class="container" spa-widget='scroll' data-scroll-id="cbQyScroll">
+  <div class="content list cbBBBox">
+
+      <div class="cbCPJJBox">
+        <div class="cbBoxT">
+          <div class="CPJJLi" ms-repeat-cb='cbcp' action-type='go.cpdetail' ms-attr-data-id='cb.id'>
+            <img ms-src="cb.imgsrc"/>
+            <div class="CPJJCTile">
+              Bingtian Su Walker
+            </div>
+            <div class="CPJJCCon">
+              由中国著名体育运动员苏炳添带领
+            </div>
+            <p class="apply-p3">
+  						<span><i class="yo-ico icon-chakan apply-p3-1"></i><b>555</b></span>
+  						<span><i class="yo-ico icon-xihuan"></i><b>333</b></span>
+  						<span><i class="yo-ico icon-pinglun"></i><b>333</b></span>
+  					</p>
+          </div>
+
+        </div>
+      </div>
+      <div class="foot">
+			   <img src="/chuangq/img/arrow.png"/>
+			   <span>上拉加载更多...</span>
+			 </div>
+
+		</div>
+</div>

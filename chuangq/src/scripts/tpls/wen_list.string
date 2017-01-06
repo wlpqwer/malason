@@ -1,0 +1,63 @@
+<div class='wenbox'>
+    <div class="l-top bian">
+      <i class='yo-ico icon-back le'  action-type="bk">
+      </i>
+      <span>湿度传感器</span>
+      <b class='l-b'>fff</b>
+    </div>
+    <section class='wenboxdiv' spa-widget='scroll' data-scroll-id='wenScroll'>
+      <div class="scroll wsf">
+  			<div class="head">
+    			 <img src="/chuangq/img/arrow.png"/>
+    			 <span>下拉刷新...</span>
+  		   </div>
+        <div>
+          <!-- <div class="liBoxWx" ms-repeat-el="cbListContain" ms-attr-data-id="el.id">
+              <div class="topWxContent">
+                    <div class="selfWxBox">
+                        <div class="leftWxCon">
+                          <div class="picCbWx"><img src="/chuangq/img/cgqBanner2.png"/></div>
+                          <div class="">
+                            <div class="nameWx" ms-text="el.name">神奇的工业爱好者</div>
+                            <span>2016-11-04</span>
+                          </div>
+                        </div>
+                        <div class="detailSelfWx" ms-text="el.title">MES传感器当前已进入新的研发阶段出棋发阶段出棋</div>
+                    </div>
+                    <div class="imgWxTop">
+                      <img src="/chuangq/img/cgqBanner2.png"/>
+                    </div>
+              </div>
+              <div class="contentBoCb" ms-text="el.detail" action-type='g.list'>MES传感器当前已进入新的研发阶段出棋发阶段出棋MES传感器当前已进入新的研发
+                阶段出棋发阶</div>
+          </div> -->
+          <section class='nibox' action-type="cbListContain" ms-repeat-el="cbListContain" ms-attr-data-id="el.id">
+            <div class="nibox1">
+              <div class="lebox">
+                <div class="l-t">
+                  <div class="l-t-l">
+                    <img src="/chuangq/img/cgqBanner2.png"/>
+                  </div>
+                  <div class="l-t-r">
+                    <div class="nameWx" ms-text="el.name"></div>
+                    <span class='ft1'>2016-11-04</span>
+                  </div>
+                </div>
+                <div class="l-b" ms-text="el.tit">
+                </div>
+              </div>
+
+              <div class="ribox">
+                <img src="/chuangq/img/cgqBanner2.png" alt="">
+              </div>
+            </div>
+            <div class="nibox2" ms-text="el.detail">
+            </div>
+          </section>
+        <div class="foot">
+  			   <img src="/chuangq/img/arrow.png"/>
+  			   <span>上拉加载更多...</span>
+  			 </div>
+      </div>
+    </section>
+</div>

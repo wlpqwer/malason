@@ -1,0 +1,59 @@
+<div class="topBox">
+    <div class="barTop">
+        <span class="title">Sensor Platform</span>
+        <i class='yo-ico icon-sousuo' action-type='t.f'></i>
+    </div>
+</div>
+<div class="container" spa-widget="scroll" data-scroll-id="cbScrollFound">
+    <div class="content list">
+      <!-- <div class="head">
+			 <img src="/chuangq/img/arrow.png"/>
+			 <span>下拉刷新...</span>
+		  </div> -->
+        <div class="infinite-list cblistBox">
+        	<div class="cbListSeQW">
+        		<div class="qiyeCb active">
+        			<i class='yo-ico icon-iconziti29'></i><span>文献</span>
+        		</div>
+        		<div class="qiyeCb" >
+        			<i class='yo-ico icon-qiye'></i><span>企业</span>
+        		</div>
+        	</div>
+
+        	<div class="swiper-container" id="cbFoundListOwn-swiper">
+			  <div class="swiper-wrapper">
+			    <div class="swiper-slide">
+			      <section spa-widget="scroll" data-scroll-id="cbScrollFound">
+			        <div ms-visible="!isShowLoading">
+			            <div class="liBox">
+			                <a class="item-content" action-type="goCBDetail" ms-repeat-el="cbListFou" ms-attr-data-id="el.id">
+			                    <div class="item-media"><img src="/chuangq/img/hp.png" alt=""></div>
+			                    <div class="item-inner">
+			                        <div class="item-title">MES传感器</div>
+			                        <div class="item-after" ms-text="el.title"></div>
+			                    </div>
+			                </a>
+			            </div>
+			        </div>
+			      </section>
+			    </div>
+			    <div class="swiper-slide">
+			    	<section spa-widget="scroll" data-scroll-id="cbScrollFound">
+			        <div ms-visible="!isShowLoading">
+			            <div class="liBox" style="width: 100vw;" >
+			                <a class="item-content" action-type="goCBWXList" ms-repeat-el="cbListFoundW" ms-attr-data-id="el.id">
+			                    <div class="item-media"><img src="/chuangq/img/hp.png" alt=""></div>
+			                    <div class="item-inner">
+			                        <div class="item-title" ms-text="el.title"></div>
+			                    </div>
+			                </a>
+			            </div>
+			        </div>
+			      </section>
+			    </div>
+			  </div>
+			</div>
+        </div>
+
+    </div>
+</div>

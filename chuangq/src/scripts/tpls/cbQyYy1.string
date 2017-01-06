@@ -1,0 +1,29 @@
+
+<div class="container" spa-widget='scroll' data-scroll-id="cbYyScroll">
+  <div class="content list cbBBBox">
+
+    <div class="head">
+     <img src="/chuangq/img/arrow.png"/>
+     <span>下拉刷新...</span>
+    </div>
+
+    <ul class="ul-ap">
+      <li action-type='go.cbYyDt' ms-repeat-yy='cbYy' ms-attr-data-id='yy.id'>
+        <img ms-src="yy.img" alt="" />
+        <p class="apply-p1"><span>穿戴设备时代只能眼镜急速前行</span><i class='yo-ico icon-dianzan zan'></i></p >
+        <div class="apply-p2"><div><span></span></div><b>85%</b></div>
+        <p class="apply-p3">
+          <span><i class="yo-ico icon-chakan apply-p3-1"></i><b>288人</b></span>
+          <span><i class="yo-ico icon-xihuan"></i><b>288人</b></span>
+          <span><i class="yo-ico icon-pinglun"></i><b>288人</b></span>
+        </p >
+      </li>
+    </ul>
+
+    <div class="foot">
+     <img src="/chuangq/img/arrow.png"/>
+     <span>上拉加载更多...</span>
+    </div>
+
+  </div>
+</div>

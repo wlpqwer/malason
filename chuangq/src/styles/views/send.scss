@@ -1,0 +1,48 @@
+.senbox1{
+  background:#f7f7f7;
+  .l-top{
+    background:#ffffff;
+  }
+}
+.question_items .user_info .reply{ color: #999999; font-size: .15rem; margin-left: .22rem;}
+.click_look{
+    // width:57vw;
+    width:2.2rem;
+     height: .37rem;
+    margin: .04rem 0 .14rem;
+    background: url(/chuangq/img/lookbj.png) no-repeat left center;
+    background-size: 100% 100%; position: relative;
+    img{
+      position:absolute;
+      left:.1rem;
+      bottom:0;
+    }
+ }
+.click_look span{ position: absolute; width: .34rem; bottom: .06rem; left: -.08rem;}
+.click_look span img{
+  // width: 100%;
+  height:.34rem;
+}
+.click_look .look_wz{display: flex; justify-content: center; align-items: center; height: 100%;}
+.click_look .look_wz i{ font-size: 13px;color: #ffffff;}
+.click_look .look_wz p{margin-left:.18rem; font-size: .13rem; color: #ffffff;}
+.border_sty{
+  // border-bottom: 1px solid #e6e6e6;
+  height:.38rem;
+  line-height:.38rem;
+  font-size:.14rem;
+  color:#999999;
+  p{
+    span:nth-child(2){
+      margin-left:50vw;
+    }
+    span:nth-child(3){
+      float:right;
+      margin-right:.1rem;
+      i{
+        font-size:.15rem;
+      }
+    }
+
+  }
+}

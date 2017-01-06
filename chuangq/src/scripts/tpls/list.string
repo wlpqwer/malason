@@ -1,0 +1,90 @@
+<div class='lbox'>
+<div class="lis lboxdiv" spa-widget='scroll'>
+  <div class="">
+    <header class='list-h'>
+        <i class="yo-ico icon-back" action-type="back"></i>
+        <div><img ms-src="detail.imgsrc"  alt="" /></div>
+        <p ms-text="detail.tit" class='p1'>
+
+          <p class='p2'>
+            <span ms-text='detail.date'></span>
+            <span ms-text='detail.time'></span>
+            <span ms-text='detail.from'></span>
+          </p>
+        </p>
+        <div class='rgb'></div>
+    </header>
+    <div class="hw">
+
+    </div>
+    <section class='sf-l-fi'>
+      <p>
+        <span ms-text='detail.detail'></span>
+      </p>
+    </section>
+    <div class="sf-l-pi">
+      <span></span><i>评论</i>
+    </div>
+    <section class='sf-l-s'>
+  <div class="sf-l-se">
+    <img src="/chuangq/img/3.png" alt="" />
+    <span class='s1'>翱翔</span>
+    <span class='s2'>  |  运动达人</span>
+  </div>
+  <div class="sf-l-p">
+    <p>
+      参加马拉松比赛前几天一定要进行身体检查，以防参赛过程中发生意外事故。
+    </p>
+    <div><span>2016-9-22</span></div>
+  </div>
+</section>
+<section class='sf-l-s'>
+  <div class="sf-l-se">
+    <img src="/chuangq/img/2.png" alt="" />
+    <span class='s1'>蓝天白云</span>
+
+    <span class='s2'> |  金牌教练</span>
+  </div>
+  <div class="sf-l-p">
+    <p>
+      文章不错，很明确的解释了马拉松的相关原理，继续努力，加油加油
+    </p>
+    <div><span>2016-8-9</span></div>
+  </div>
+</section>
+<section class='sf-l-s'>
+  <div class="sf-l-se">
+    <img src="/chuangq/img/1.png" alt="" />
+    <span class='s1'>流光</span>
+    <span class='s2'> | 一级教练</span>
+  </div>
+  <div class="sf-l-p">
+    <p>
+      再接再厉，马拉松运动是一项长距离有氧运动，比赛前必须刺激运动中枢神经的兴奋灶，
+    </p>
+    <div><span>2016-8-4</span></div>
+  </div>
+</section>
+<section class='sf-l-s messagebox'>
+  <div class="sf-l-se">
+    <img src="/chuangq/img/3.png" alt="" />
+    <span class='s1'>大树</span>
+    <span class='s2'>  | 金牌达人</span>
+  </div>
+  <div class="sf-l-p">
+    <p>
+      参加马拉松比赛前几天一定要进行身体检查，以防参赛过程中发生意外事故。
+    </p>
+    <div><span>2016-2-9</span></div>
+  </div>
+</section>
+  </div>
+</div>
+<section class='sf-l-b'>
+  <i class='yo-ico icon-xihuan fi'></i>
+  <div class="">
+    <input type="text" class="text" value="">
+    <i class='yo-ico icon-question la'></i>
+  </div>
+</section>
+</div>

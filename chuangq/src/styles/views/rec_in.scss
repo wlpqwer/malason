@@ -1,0 +1,86 @@
+.recbox{
+  height:100%;
+  width:100%;
+  @include flexbox();
+  @include flex-direction(column);
+  .recboxdiv{
+    @include flex();
+    width:100%!important;
+  }
+}
+.hea{padding:0 15px;
+  .bon{
+    font-weight:normal!important;
+  }
+  text-align: center;font-weight:bold;height:.44rem; line-height: .44rem; border-bottom: 1px solid #e6e6e6; background: #fff;  font-size: .18rem; color: #595959;}
+.hea i{font-size: 24px;float:left;}
+.question_items{
+  padding: .13rem .1rem;
+  background: #fff;
+  border-bottom:.1rem solid #f6f6f6;
+  .f2{
+    color:#333333;
+  }
+}
+.born{
+  border:0;
+}
+.question_items .user_info{
+  display: flex; justify-content: center;
+  align-items: center;
+}
+.question_items .user_info .icon_text{
+img{
+  border-radius: 50%;
+}
+  flex-grow: 1;color:#999999;font-size:.11rem;}
+
+.question_items .user_info .icon_text span.img-icon{
+  width: .34rem; display: inline-block;height:.34rem;
+}
+.question_items .user_info .icon_text span.img-icon img{
+  width: .34rem;height: .34rem;
+}
+.question_items .user_info .icon_text span.text-icon{
+  margin-left: .05rem; display: inline-block;
+  font-size: .11rem; color: #666666;
+}
+.question_items .user_info .cost{
+  font-size: .14rem; color: #e94848;
+}
+.question_items .problem{
+  font-size: .14rem; color: #333333; padding: .1rem 0 .14rem;
+}
+.question_items .problem_static p{
+  .dz{font-size:.15rem!important;}
+  display: flex; justify-content: center;
+  align-items: center; padding-bottom: .07rem;
+ }
+.question_items .problem_static p span{
+  flex-grow: 1; font-size: .13rem; color: #999999;
+  display: block;
+}
+.question_items .problem_stati p span:first-of-type{
+  flex-grow: 1;
+}
+.question_items .problem_stati p span:last-of-type{
+  margin-left: .22rem; display: flex; justify-content: center;
+   align-items: center; padding-left: .05rem;
+ }
+.question_items .problem_stati p span:last-of-type i{ font-size: 30px; }
+.question_items .problem_static p{
+  b{
+    font-weight:normal;color:#2d74ff;
+    font-size:.15rem;
+  }
+  span{
+    font-size:.11rem;
+    color:#2d74ff;
+  }
+}
+.question_items .problem_static p em{ display:inline-block;
+  font-size: .11rem; color: #2d74ff;
+  border:1px solid #2d74ff;width:.45rem;
+  height:.22rem;border-radius:4px;
+  text-align:center;line-height:.22rem;
+}

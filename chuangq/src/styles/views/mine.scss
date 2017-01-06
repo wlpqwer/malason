@@ -1,0 +1,149 @@
+body{
+        background: #f7f7f7;
+    }
+    .bar{
+        background: #fff;
+    }
+    .topMsgCb{
+        padding-left: .1rem;
+        margin-bottom: .1rem;
+        background: #fff;
+    }
+    .iconCbT{
+        display: flex;
+        justify-content: flex-end;
+        padding: .15rem .3rem 0 0;
+    }
+    .icon-gerenziliaoshezhi:before{
+        font-size: .3rem;
+    }
+    .iconCbT i{
+        font-size:.24rem;
+        width: .16rem;
+        color:#2d74ff;
+        height: .17rem;
+    }
+    .imgBoxCb{
+        display: flex;
+        justify-content: center;
+        margin-bottom: .2rem;
+        div {
+            width: .95rem;
+            height: .95rem;
+            border-radius: 50%;
+
+            img{
+                width: 100%;
+                height: .95rem;
+                border-radius: 50%;
+            }
+        }
+    }
+
+    .niCheng{
+        text-align: center;
+        font-size:.2rem;
+        color:#323232;
+        margin-bottom: .2rem;
+    }
+    .biaoQianCb{
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: .2rem;
+        .liBiaoCb{
+            display: flex;
+            align-items: center;
+            .smallCri{
+                width: .1rem;
+                height: .1rem;
+                border-radius: 50%;
+                background: #ffa50b;
+                margin-right: .05rem;
+            }
+            .cr2{
+              background:#1b71db
+            }
+            .cr3{
+              background:#3cca9c
+            }
+        }
+    }
+    .costCb{
+        text-indent: .1rem;
+        margin-bottom: .2rem;
+        color:#999999;
+        span{
+            color: orangered;
+        }
+    }
+
+    .gongNCb{
+        display: flex;
+        padding: 0 .1rem .1rem;
+        margin-bottom: .1rem;
+        .liC{
+            text-align: center;
+            flex-grow: 1;
+        }
+        .cangCb{
+          @include border(0 .01rem 0,#e6e6e6,solid);
+        }
+    }
+.borde{
+  height: .1rem;background: #f7f7f7;
+}
+    .listMCb{
+        display: flex;
+        flex-direction: column;
+        // padding: 0 .1rem;
+        background: #fff;
+        margin-bottom: .1rem;
+        div{
+          padding:0 .15rem;
+        }
+
+        .lib2{
+          @include border(.01rem 0 0,#e6e6e6,solid);
+          .ZJ{
+            font-size: .2rem;}
+        }
+        .lib3{
+          @include border(.01rem 0 ,#e6e6e6,solid);
+        }
+
+        i{
+          font-weight:bold;
+          color:#2d74ff;
+        }
+    }
+    .liCb{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        height: .44rem;
+        padding: 0 .1rem;
+        div{
+            flex-grow: 1;
+            padding-left: .1rem;
+        }
+    }
+
+    .icon-question:before{
+        font-size: .2rem;
+    }
+    .icon-woyaotiwen:before {
+        font-size: .2rem;
+    }
+    .icon-guanyu:before {
+        font-size: .2rem;
+    }
+    .iconCn{
+        -webkit-transform: translateY(.02rem);transform: translateY(.02rem);
+    }
+    .closeUse{
+        text-align: center;
+        height:.55rem;
+        line-height: .55rem;
+        background: #fff;
+        color: orangered;
+    }

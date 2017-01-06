@@ -1,0 +1,173 @@
+<div class="goods-list">
+	<header class="good-t">
+    <i class="yo-ico icon-fanhui" action-type='back'></i>
+    <span>商品详情</span>
+    <i class="yo-ico icon-fenxiang1"></i>
+  </header>
+<div spa-widget="scroll" style="height:100%;">
+
+	<div>
+	  <section class="go-t">
+	    <div class="">
+	      正源通
+	    </div>
+	    <span>正源通</span>
+	  </section>
+	  <!--  图片-->
+	  <section class="go-pic">
+	    <div class="swiper-container swiper-container-horizontal" id="swiper-container1" >
+	    	<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
+	    		<div class="swiper-slide blue-slide swiper-slide-active" >
+	    			<img ms-src='good.prodImages' alt="" /></div>
+	    		<div class="swiper-slide red-slide swiper-slide-next">
+	    			<img ms-src='good.prodImages' alt="" /></div>
+
+	    	</div>
+	    	<div class="swiper-pagination swiper-pagination-bullets" id="swiper-pagination1"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+	    </div>
+
+	  </section>
+	  <!-- 说明 -->
+	  <section class="go-state">
+	    <strong ms-text='good.name'>神龙架·正源通野生椴木木耳</strong>
+	    <p class="shen" ms-text='good.shortDescription'>
+	      神龙架纯野生椴木生长木耳，200g,天然绿色健康。
+	    </p>
+	    <p>
+	      <span ms-text='good.salesPrice'>￥49.0</span><i ms-text='good.marketPrice'>￥69.0</i>
+	    </p>
+	  </section>
+	  <!-- 商品详情 -->
+	  <section class="go-detail">
+	      <img src="/zyt/img/detail/de.jpg" alt="" />
+	  </section>
+	<!-- 猜你喜欢 -->
+	  <section class="go-youlike">
+	    <h1>猜你喜欢</h1>
+	    <div class="swiper-container swiper-container-horizontal" id="swiper-container2" >
+	    	<div class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(0px, 0px, 0px);">
+	    		<div class="swiper-slide blue-slide swiper-slide-active" >
+	    			<ul id="go-ul">
+	    			  <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	            <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	            <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	    			</ul>
+	          <ul id="go-ul2">
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	          </ul>
+	        </div>
+	    		<div class="swiper-slide red-slide swiper-slide-next">
+	          <ul id="go-ul">
+	    			  <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	            <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	            <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	    			</ul>
+	          <ul id="go-ul2">
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	          </ul>
+	        </div>
+	        <div class="swiper-slide red-slide swiper-slide-next">
+	          <ul id="go-ul">
+	            <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	            <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	            <li><img src="/zyt/img/detail/mu.jpg" alt="" /></li>
+	          </ul>
+	          <ul id="go-ul2">
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	            <li>
+	                <p>澳大利亚·Banana</p>
+	                <p>
+	                  澳洲Bananer Boat香蕉船儿童喷雾
+	                </p>
+	                <p>
+	                  ￥108.0
+	                </p>
+	            </li>
+	          </ul>
+	        </div>
+
+	    	</div>
+	    	<div class="swiper-pagination swiper-pagination-bullets" id="swiper-pagination2"><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span></div>
+	    </div>
+	  </section>
+	  </div>
+</div>
+<!-- 底部 -->
+<div class="go-btm">
+    <div class="go-buy">
+        加入购物车
+    </div>
+    <div class="go-sus">
+      去结算
+    </div>
+</div>
+</div>

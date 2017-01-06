@@ -1,0 +1,57 @@
+<div class='editbox'>
+  <div class="l-top">
+    <i class='yo-ico icon-back le'  action-type="e.b">
+    </i>
+    <span>编辑资料</span>
+    <b class='l-b'>fff</b>
+  </div>
+  <form class="data_collection_box editboxdiv" method="post" spa-widget='scroll'>
+    <div>
+    <div class="edit_items ">
+      <div class="change_icon ">
+        <p>头像</p>
+        <div class="icon_img ">
+          <img src="/chuangq/img/8.png" />
+          <input type="file" class="update_img " />
+        </div>
+      </div>
+    </div>
+    <div class="edit_items">
+      <div class="change_info">
+        <p>昵称</p>
+        <input type="text" class="info_item " placeholder="Christopher Lee" />
+      </div>
+    </div>
+    <div class="edit_items">
+      <div class="change_info ">
+        <p>你的标签（最多写三个）</p>
+        <input type="text" class="info_item" placeholder="马拉松新手    42.195KM    荣誉达人" />
+      </div>
+    </div>
+    <div class="edit_items">
+      <div class="change_info">
+        <p>你擅长回答的问题</p>
+        <textarea rows="6" placeholder="马拉松运动是一项挑战人体生命极限的运动，比赛中意外情况难以避免，常见损伤也常常伴随。及时、正确处理十分必要。"></textarea>
+      </div>
+    </div>
+    <div class="edit_lp border_st1">
+      <span>向我提问需要支付</span>
+      <span><input type='text' placeholder='8.88'/></span>
+      <span>元</span>
+    </div>
+    <div class="edit_lp">
+      <div>回答30分钟内免费听</div>
+      <em>免费规则</em>
+      <label class="yo-switch yo-switch-tes">
+          <input type="checkbox" />
+          <div class="track ">
+              <span class="handle "></span>
+          </div>
+      </label>
+    </div>
+    <div class="lp-btn">
+      <input type="button" class="save_btn " value="保存" />
+    </div>
+  </div>
+  </form>
+</div>

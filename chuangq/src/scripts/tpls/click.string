@@ -1,0 +1,46 @@
+<div class='clickbox'>
+<header class="header ">
+    <i class="yo-ico icon-back " action-type="to.re.b"></i>
+    <div class="heder-text ">谈谈你的观点</div>
+  </header>
+  <div class="question-group clickboxdiv" spa-widget='scroll'>
+    <div>
+    <div class="question_items born">
+      <div class="user_info ">
+        <p class="icon_text ">
+          <span class="img-icon "><img src="/chuangq/img/r5.png" /></span>
+          <span class="text-icon ">马拉松导航话题君</span>
+        </p>
+      </div>
+      <p class="problem ">在现代，跑马拉松是见比较普遍的事件吗？说说你身边有多少人跑马拉松的。</p>
+    </div>
+
+    <div class="swiper-container " id="choose_way2">
+      <div class="wayList ">
+        <span class="active ">语音</span>
+        <span>文字</span>
+      </div>
+          <div class="swiper-wrapper ">
+          <div class="swiper-slide staticPlay_sty swiper-no-swiping ">
+            <div class="voice ">
+              <span><img src="/chuangq/img/voice_btn.png" /></span>
+              <p>点击开始录音，最多可录制60”</p>
+            </div>
+          </div>
+          <div class="swiper-slide staticPlay_sty swiper-no-swiping ">
+            <div class="multi-row ">
+              <i class="yo-ico icon-bi "></i>
+              <textarea class='textan' placeholder="写回答"></textarea>
+              <p>0/300</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+      <div class='rebtm'>
+        确定
+      </div>
+    </div>
+  </div>
+</div>

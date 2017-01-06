@@ -1,0 +1,43 @@
+<div class="container" spa-widget='scroll' data-scroll-id="cbZxScroll">
+  <div class="content list cbBBBox">
+
+    <div class="head">
+     <img src="/chuangq/img/arrow.png"/>
+     <span>下拉刷新...</span>
+    </div>
+
+    <div class="ZXZXBox">
+      <div class="ZXZXList" action-type='g.cbzx' ms-repeat-zx='cbzx' ms-attr-data-id='zx.id'>
+        <div class="ZXZXLi">
+          <img src="/chuangq/img/cgqBanner2.png"/ class="ZXZXLiImg">
+          <div class="ZXZXLiCon">
+            <div class="ZXZXTitle">
+              MEMS传感器已进入一个新的阶段性研发第73期
+            </div>
+            <div class="ZXZXSelfBN">
+              <div class="ZXZXName">
+                最神奇的工业人
+              </div>
+              <div class="">
+                |
+              </div>
+              <div class="ZXZXLei">
+                MEMS
+              </div>
+            </div>
+            <div class="ZXZXTime">
+              2014-11-04
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="foot">
+       <img src="/chuangq/img/arrow.png"/>
+       <span>上拉加载更多...</span>
+     </div>
+
+  </div>
+</div>

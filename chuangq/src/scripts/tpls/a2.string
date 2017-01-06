@@ -1,0 +1,183 @@
+<section spa-widget='scroll' data-scroll-id="aScroll2" class='abox'>
+<div class="" id='sf-swi-c2'>
+<div class="head">
+ <img src="/chuangq/img/arrow.png"/>
+ <span>下拉刷新...</span>
+</div>
+  <section class="sf-nav">
+    <div class="sf-a-re" action-type="to.sha">
+      <i class='yo-ico icon-release'></i>
+      <span>发布悬赏</span>
+    </div>
+    <div class="sf-a-qu kff">
+      <span class='sf-a-fi active'>已解答</span>
+      <span class="sf-a-new">最新</span>
+    </div>
+  </section>
+  <section class='sf-a-au' spa-widget='scroll'>
+    <div class="sf-scroll">
+      <div class="swiper-container" id='sf-a-sc1'>
+        <div class="swiper-wrapper" id="">
+          <div class="swiper-slide" >
+            <div class="sf-a-box">
+              <p class='p1'>我是马拉松新手，想知道跑马拉松能够减肥吗？</p>
+              <p class='p2'>
+                <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+              </p>
+              <div class="sf-a-lis">
+                <div class="sf-au">
+                  <img src="/chuangq/img/8.png" class="sf-au-cir" />
+                  <i class='yo-ico icon-yuyin'></i>
+                  <span>限时免费听</span>
+                </div>
+                <span class='lisen'>听过<b>158</b></span>
+              </div>
+            </div>
+            <div class="sf-a-box">
+              <p class='p1'>我是马拉松新手，想知道跑马拉松能够减肥吗？</p>
+              <p class='p2'>
+                <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+              </p>
+              <div class="sf-a-lis">
+                <div class="sf-au">
+                  <img src="/chuangq/img/8.png" class="sf-au-cir" />
+                  <i class='yo-ico icon-yuyin'></i>
+                  <span>限时免费听</span>
+                </div>
+                <span class='lisen'>听过<b>158</b></span>
+              </div>
+            </div>
+            <div class="sf-a-box">
+              <p class='p1'>我是马拉松新手，想知道跑马拉松能够减肥吗？</p>
+              <p class='p2'>
+                <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+              </p>
+              <div class="sf-a-lis">
+                <div class="sf-au">
+                  <img src="/chuangq/img/8.png" class="sf-au-cir" />
+                  <i class='yo-ico icon-yuyin'></i>
+                  <span>限时免费听</span>
+                </div>
+                <span class='lisen'>听过<b>158</b></span>
+              </div>
+            </div>
+            <div class="sf-a-box">
+              <p class='p1'>我是马拉松新手，想知道跑马拉松能够减肥吗？</p>
+              <p class='p2'>
+                <span>万能的丛思佳</span><i> | 资深马拉松步行者/一级运动员</i>
+              </p>
+              <div class="sf-a-lis">
+                <div class="sf-au">
+                  <img src="/chuangq/img/8.png" class="sf-au-cir" />
+                  <i class='yo-ico icon-yuyin'></i>
+                  <span>限时免费听</span>
+                </div>
+                <span class='lisen'>听过<b>158</b></span>
+              </div>
+            </div>
+            <!-- <div class="foot">
+              <img src="/footballSNS/images/arrow.png"/>
+              <span>上拉加载更多...</span>
+            </div> -->
+          </div>
+
+          <div class="swiper-slide" >
+
+            <div class="question_items ">
+              <div class="user_info ">
+                <p class="icon_text ">
+                  <span class="img-icon "><img src="/chuangq/img/8.png" /></span>
+                  <span class="text-icon ">万能的丛思佳</span>&nbsp;&nbsp;|&nbsp;
+                  <span>资深马拉松步行者/一级运动员</span>
+                </p>
+                <em class="cost ">￥20</em>
+              </div>
+              <p class="problem f2" action-type='re.de'>跑马拉松的时候有哪些基本常识需要注意的，有哪些基本常识尤为重要？</p>
+              <div class="problem_static ">
+                <p>
+                  <span>还剩47小时</span>
+                  <em action-type='res_q'>抢答</em>
+                </p>
+              </div>
+            </div>
+            <div class="question_items ">
+              <div class="user_info ">
+                <p class="icon_text ">
+                  <span class="img-icon "><img src="/chuangq/img/8.png" /></span>
+                  <span class="text-icon ">万能的丛思佳</span>&nbsp;&nbsp;|&nbsp;
+                  <span>资深马拉松步行者/一级运动员</span>
+                </p>
+                <em class="cost ">￥20</em>
+              </div>
+              <p class="problem f2" action-type='re.de'>跑马拉松的时候有哪些基本常识需要注意的，有哪些基本常识尤为重要？</p>
+              <div class="problem_static ">
+                <p>
+                  <span>还剩47小时</span>
+                  <em action-type='res_q'>抢答</em>
+                </p>
+              </div>
+            </div>
+            <div class="question_items ">
+              <div class="user_info ">
+                <p class="icon_text ">
+                  <span class="img-icon "><img src="/chuangq/img/8.png" /></span>
+                  <span class="text-icon ">万能的丛思佳</span>&nbsp;&nbsp;|&nbsp;
+                  <span>资深马拉松步行者/一级运动员</span>
+                </p>
+                <em class="cost ">￥20</em>
+              </div>
+              <p class="problem f2" action-type='re.de'>跑马拉松的时候有哪些基本常识需要注意的，有哪些基本常识尤为重要？</p>
+              <div class="problem_static ">
+                <p>
+                  <span>还剩47小时</span>
+                  <em action-type='res_q'>抢答</em>
+                </p>
+              </div>
+            </div>
+            <div class="question_items ">
+              <div class="user_info ">
+                <p class="icon_text ">
+                  <span class="img-icon "><img src="/chuangq/img/8.png" /></span>
+                  <span class="text-icon ">万能的丛思佳</span>&nbsp;&nbsp;|&nbsp;
+                  <span>资深马拉松步行者/一级运动员</span>
+                </p>
+                <em class="cost ">￥20</em>
+              </div>
+              <p class="problem f2" action-type='re.de'>跑马拉松的时候有哪些基本常识需要注意的，有哪些基本常识尤为重要？</p>
+              <div class="problem_static ">
+                <p>
+                  <span>还剩47小时</span>
+                  <em action-type='res_q'>抢答</em>
+                </p>
+              </div>
+            </div>
+            <div class="question_items ">
+              <div class="user_info ">
+                <p class="icon_text ">
+                  <span class="img-icon "><img src="/chuangq/img/8.png" /></span>
+                  <span class="text-icon ">万能的丛思佳</span>&nbsp;&nbsp;|&nbsp;
+                  <span>资深马拉松步行者/一级运动员</span>
+                </p>
+                <em class="cost ">￥20</em>
+              </div>
+              <p class="problem f2" action-type='re.de'>跑马拉松的时候有哪些基本常识需要注意的，有哪些基本常识尤为重要？</p>
+              <div class="problem_static ">
+                <p>
+                  <span>还剩47小时</span>
+                  <em action-type='res_q'>抢答</em>
+                </p>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="foot">
+     <img src="/chuangq/img/arrow.png"/>
+     <span>上拉加载更多...</span>
+   </div>
+</div>
+</section>

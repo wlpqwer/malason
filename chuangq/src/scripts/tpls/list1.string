@@ -1,0 +1,84 @@
+<div class='lbox2'>
+<div class="l-top">
+  <i class='yo-ico icon-back le'  action-type="back">
+  </i>
+  <span>明星跑团</span>
+  <b class='l-b'>fff</b>
+</div>
+
+<div class="lbox2div" spa-widget='scroll'>
+  <div class="lsbox">
+    <header class='list-h'>
+        <i></i>
+        <img ms-src="detail.imgsrc" alt="" />
+    </header>
+    <div class="ls1">
+      <span></span>
+    </div>
+    <section class='ls2'>
+        明星跑团明星跑团明星跑团明星跑团明星跑团明星跑团明星跑团
+    </section>
+    <section class='ls3'>
+        <p><span>当前人数：100人</span><span>星期一</span><span>2016年12月1日</span></p>
+        <i></i><b>一级跑团</b>
+    </section>
+    <section class='sf-l-fi bor1'>
+      <p ms-text='detail.book'>
+      </p>
+    </section>
+    <div class="sf-l-pi">
+      <span></span><i>评论</i>
+    </div>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/2.png" alt="" />
+        <span class='s1'>蓝天白云</span>
+
+        <span class='s2'> |  金牌教练</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          文章不错，很明确的解释了马拉松的相关原理，继续努力，加油加油
+        </p>
+        <div><span>2016-8-9</span></div>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/1.png" alt="" />
+        <span class='s1'>流光</span>
+        <span class='s2'> | 一级教练</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          再接再厉，马拉松运动是一项长距离有氧运动，比赛前必须刺激运动中枢神经的兴奋灶，
+        </p>
+        <div><span>2016-8-4</span></div>
+      </div>
+    </section>
+    <section class='sf-l-s messagebox'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>大树</span>
+        <span class='s2'>  | 金牌达人</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          参加马拉松比赛前几天一定要进行身体检查，以防参赛过程中发生意外事故。
+        </p>
+        <div><span>2016-2-9</span></div>
+      </div>
+    </section>
+  </div>
+</div>
+<section class='sf-l-c'>
+  <i class='yo-ico icon-xihuan fi'></i>
+  <div class="">
+    <input type="text" class="text" value="">
+    <i class='yo-ico icon-question la'></i>
+  </div>
+  <div class="er">
+    加入跑团
+  </div>
+</section>
+</div>

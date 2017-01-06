@@ -1,0 +1,277 @@
+.pa0{
+  padding:0!important;text-align:center;
+  background:#f7f7f7!important;
+  .led{
+    div{
+      float:left;
+      width:25vw;
+      // color:#999999!important;
+      border-right:0!important;
+
+    }
+  }
+}
+
+.qybox{
+  .yan{
+    color:#ffffff;
+  }
+  width:100%;height:100%;
+  @include flexbox();
+  @include flex-direction(column);
+  section{
+    @include flex();
+    width:100%!important;
+    overflow:hidden;
+  }
+  #Qy-swiper{
+    border-bottom:1px solid #e6e6e6;
+  }
+  header{
+    height:.44rem;
+    font-size: .18rem; color: #2d74ff;
+    padding:0 .15rem;
+    b{
+      font-weight:bold;
+    }
+    .bk{font-size:.2rem;color:#999999;}
+    border-bottom:1px solid #e6e6e6;
+    i{color:#ffffff;}
+    @include justify-content(space-between);
+    @include align-items(center);
+      .cen{
+          font-size:.18rem;font-weight:bold;
+      }
+      .ri{
+        font-size:.22rem;font-weight:bold;
+      }
+      width:100%;height:44px;
+      @include flexbox();
+  }
+}
+i.yo-ico.icon-back {
+    font-size: .22rem;
+}
+#CbConFoun,#CbConFoun1 {
+  spa-view {
+    position: static;
+  }
+}
+.swiper-container#Qy-swiper,{
+  overflow: visible;
+}
+.cbListSe{
+    height:.37rem;padding:0 .2rem;line-height:.27rem;
+    font-size: .14rem;
+    .cbbb{
+      text-align:center;height:.27rem;margin: .05rem 0;
+      border-right:1px solid #dcdcdc;
+    }
+    .cbbb.active{
+        color: #2d74ff;height:89%;
+        border-bottom: 2px solid #2d74ff;
+    }
+    .lasts{
+      border:0
+    }
+    .cbbb1{
+      border:0;
+      line-height: .36rem;
+    }
+}
+
+.cbList{
+    display: flex;
+    flex-wrap: wrap;
+    height: .22rem;
+    font-size: .12rem;
+    div {
+        flex-grow: 1;
+        text-align: center;
+    }
+}
+.cbBanner{
+    padding: 0 .1rem;
+    margin: .1rem 0;
+    img{
+        width: 100%;
+    }
+}
+.cbListPic{
+    padding: 0 .1rem;
+    display: flex;
+    height:.75rem;
+    justify-content: space-between;
+    img{
+        width: 1.2rem;
+        height: .75rem;
+    }
+}
+.cbContent{
+    padding:.1rem;
+    div{background:#f7f7f7;padding:.1rem;}
+}
+.cbContent:first-letter{
+    margin-left: .2rem;
+}
+.CSCb{
+  display: flex;
+}
+//产品介绍
+.cbCPJJBox{
+    padding: .1rem 0 0 0;
+    .cbBoxT{
+        clear: both;
+        overflow: hidden;
+        .CPJJLi{
+          // @include border(.01rem,#adadad,solid,.1rem);
+          box-shadow:0px 0px 6px rgba(0,0,0,0.08);
+          border-radius:.1rem;
+          overflow:hidden;
+            width: 47%;
+            margin-left:2%;
+            box-sizing: border-box;
+            float: left;
+            margin-bottom: .1rem;
+            img{
+                width: 100%;
+                margin-bottom: .06rem;
+            }
+            .CPJJCTile{
+                color: $base-title-color;
+                padding:0 .2rem 0 .1rem;
+                font-size: .14rem;
+            }
+            .CPJJCCon{
+                color: $base-content-color;
+                font-size: .13rem;
+                padding:.01rem .2rem .03rem .1rem;
+                @include ellipsis(100%,1);
+            }
+            .CPJJCBottom {
+                display: flex;
+                color:#bfbfbf;
+                @include justify-content(space-between);
+                @include align-items(center);
+                padding:0 .2rem 0 .1rem;
+                .cbCZan,.cbCPing{
+                  margin-left:.1rem;
+                }
+
+                div{
+                    display: flex;
+                    @include justify-content(space-between);
+                    @include align-items(center);
+                    i{
+                        font-size: .1rem;
+                    }
+                    span{
+                        font-size: .1rem;
+                        margin-left:.03rem;
+                    }
+                }
+            }
+            .apply-p3{
+              @include flexbox();
+              @include justify-content(space-between);
+              @include align-items(center);
+              padding:0 .2rem .01rem .1rem;
+              b{
+                margin-left:.02rem;font-weight:normal;
+                font-size:.13rem;
+              }
+              color:#999;
+              i{
+                font-size:.13rem;
+              }
+              .apply-p3-1{
+                font-size:.13rem;
+              }
+              span:nth-child(2){
+                margin:0 .1rem;
+              }
+            }
+        }
+
+
+    }
+}
+.JLM{
+  text-align: center;
+}
+// 最新资讯
+.ZXZXLi {
+    display: flex;
+    padding: .1rem;
+    border-bottom: 1px solid #e5e5e5;
+    img.ZXZXLiImg {
+        height: .8rem;width:1.15rem;
+        border-radius: .05rem;
+    }
+    .ZXZXLiCon{
+        padding: .02rem .1rem;
+        .ZXZXTitle{
+            font-size: .14rem;
+        }
+        .ZXZXSelfBN{
+            display: flex;
+            align-items: center;
+            font-size: .1rem;
+            color: #999999;
+            div{
+                margin-right: .1rem;
+            }
+            .ZXZXLei{
+                width: .45rem;
+                height: .12rem;
+                line-height: .12rem;
+                border-radius: .06rem;
+                text-align: center;
+                background: #09A5C4;
+                color: #fff;
+            }
+        }
+        .ZXZXTime{
+            color: #999999;
+            font-size: .1rem;
+        }
+    }
+}
+// 应用 场景
+.cellPhone {
+    display: flex;
+    justify-content: center;
+    .boxCbTel {
+      width:90vw;
+      @include border(.0rem,#adadad,solid,.1rem);
+      .hou{
+        font-size:4vw;
+      }
+      box-shadow:0px 0px 10px rgba(0,0,0,0.1);
+        padding: .1rem;
+        display: flex;
+        height: .5rem;
+        justify-content: center;
+        align-items: center;
+        position:relative;bottom:0;
+        .tel{
+          height:.3rem;width:70%;
+          background:#2d74ff;
+          color:#ffffff;
+          margin-left:.1rem;
+          text-align: center;
+          line-height:.3rem;
+          font-size:4vw;
+          padding:0 .05rem;
+          b{
+            float:left;
+            margin-left:3vw;
+          }
+          @include border(.01rem,#adadad,solid,.05rem);
+          .le1{
+            float:left;
+
+          }
+        }
+    }
+}

@@ -1,0 +1,94 @@
+<div class='lbox2'>
+<div class="l-top">
+  <i class='yo-ico icon-back le'  action-type="back">
+  </i>
+  <span>金牌教练</span>
+  <b class='l-b'>fff</b>
+</div>
+
+<div class="lbox2div" spa-widget='scroll'>
+  <div class="lsbox">
+    <header class='list-h'>
+        <i></i>
+        <img ms-src="detail.imgsrc" alt="" />
+    </header>
+    <div class="ls1">
+      <span></span>
+    </div>
+    <section class='ls2 '>
+        <b class='ls22'>苏炳添</b>(Bingtian Su)
+    </section>
+    <section class='ls3'>
+        <p><span>国家一级运动员</span><span class='pd'>启动衔接加速跑出色、步频快</span><span>专业特点：</span></p>
+        <i></i><b>中国田径队</b>
+    </section>
+
+
+    <section class='ls4'>
+      <b>|</b><span>教练生涯</span>
+    </section>
+    <section class='ls5'>
+      2004年11月，第一次参加正规的比赛——中山市中学生田径比赛并夺冠。  2009年苏炳添以10秒28夺得全国田径锦标赛百米冠军。 2010年广州亚运会4×100米接力决赛，苏炳添和队友陆斌、梁嘉鸿、劳义以38秒78刷新全国纪录和赛会纪录，中国接力队时隔20年重夺亚洲冠军.2011年苏炳添再夺全锦赛百米冠军并以10秒16打破了13年前周伟创造的全国纪录。  2012年伦敦奥运会上，苏炳添成为中国首位晋级奥运会男子百米半决赛的短跑选手。 2014年3月8日，在波兰索波特室内世锦赛男子60米比赛中，苏炳添成为第一个闯入世界级大赛（世锦赛、奥运会）短跑决赛圈的中国选手，并以6秒52勇夺第4，打破自己保持的全国纪录。9月28日，获得仁川亚运会百米亚军，后在4×100米接力决赛又以37秒99，破亚洲纪录的成绩夺冠.
+    </section>
+    <section class='ls4'>
+      <b>|</b><span>教练擅长</span>
+    </section>
+    <section class='ls5'>
+      最近几年，国内跑步人口和马拉松比赛数量如雨后春笋般喷涌激增。相应的，初跑者、因不得法而受伤的跑友的比重也呈指数级增加，跑步教练这一职业的重要性也就自然而然的被推到人们的视线中。也许对于一部分跑友来说，他们的第一反应是“跑步还用人教？”；当然需要。跑步，所有人天生就会；但想要跑得聪明、高效、不受伤、完成比赛目标，却的确是有门道的。笔者从事了四五年的跑步教练，陆续培训过数千名跑步爱好者，算是半个业内人士。
+    </section>
+    <div class="sf-l-pi">
+      <span></span><i>评论</i>
+    </div>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/2.png" alt="" />
+        <span class='s1'>蓝天白云</span>
+
+        <span class='s2'> |  金牌教练</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          文章不错，很明确的解释了马拉松的相关原理，继续努力，加油加油
+        </p>
+        <div><span>2016-8-9</span></div>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/1.png" alt="" />
+        <span class='s1'>流光</span>
+        <span class='s2'> | 一级教练</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          再接再厉，马拉松运动是一项长距离有氧运动，比赛前必须刺激运动中枢神经的兴奋灶，
+        </p>
+        <div><span>2016-8-4</span></div>
+      </div>
+    </section>
+    <section class='sf-l-s messagebox'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>大树</span>
+        <span class='s2'>  | 金牌达人</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          参加马拉松比赛前几天一定要进行身体检查，以防参赛过程中发生意外事故。
+        </p>
+        <div><span>2016-2-9</span></div>
+      </div>
+    </section>
+  </div>
+</div>
+<section class='sf-l-c'>
+  <i class='yo-ico icon-xihuan fi'></i>
+  <div class="">
+    <input type="text" class="text" value="">
+    <i class='yo-ico icon-question la'></i>
+  </div>
+  <div class="er">
+    拜 师 
+  </div>
+</section>
+</div>

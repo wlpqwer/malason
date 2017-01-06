@@ -1,0 +1,174 @@
+.goods-list{
+  background:#ffffff;
+  font-family:"微软雅黑";
+  @include flexbox();
+  @include flex-direction(column);
+  .good-t{
+    i{
+      font-size:.25rem;
+    }
+      font-size:.16rem;
+      padding:.12rem;
+      height:.44rem;
+      background: $base-color;
+      color:#ffffff;
+      @include flexbox();
+      @include align-items(center);
+      span{
+        @include flex(1);
+        text-align:center;
+      }
+  }
+  .go-t{
+    background:#f5f5f5;
+    padding:.02rem .12rem;
+    height:.4rem;
+    width:100%;
+    @include flexbox();
+    line-height:.38rem;
+    div{
+
+      height:.38rem;
+      width:.38rem;
+      color:#ffffff;
+      @include border-radius(50%);
+      background:$base-color;
+      font-size:.1rem;
+    }
+    span{
+      text-indent:.05rem;
+      color:#6b6b6b;
+      font-size:.14rem;
+    }
+  }
+  // 图片
+  .go-pic{
+    .swiper-wrapper{
+      div{
+        width:100%;
+        @include flexbox();
+        @include align-items(center);
+        @include justify-content(center);
+      }
+
+      img{
+        height:1.16rem;
+      }
+      width:100%;
+    }
+    height:2rem;
+    background:#ffffff;
+    #swiper-container1{
+      height:2rem;
+    }
+
+  }
+  // 说明
+  .go-state{
+
+    .shen{
+      font-size:.12rem;
+      color:#636363;
+    }
+    span{
+      color:$base-color;
+    }
+    i{
+      font-size:.1rem;
+      color:#636363;
+      margin-left:.1rem;
+      text-decoration:line-through;
+    }
+    height:.66rem;
+    background:#ffffff;
+    @include border(1px,#dedede);
+    padding:.05rem .1rem;
+  }
+  .go-detail{
+    @include border(.2rem 0 .2rem 0,#f5f5f5,solid);
+    // margin:.12rem 0;
+    padding:.18rem .1rem;
+    img{
+      width:100%;
+      height:2.43rem;
+    }
+  }
+  .go-youlike{
+    @include border(0 0 .2rem 0,#f5f5f5,solid);
+    h1{
+      text-align:center;
+      line-height:.3rem;
+    }
+    height:2.8rem;
+    #swiper-container2{
+      height:2.26rem;
+    }
+    #go-ul{
+      @include flexbox();
+      @include justify-content(space-around);
+    }
+    #go-ul li{
+      @include flexbox();
+      @include justify-content(center);
+      @include align-items(center);
+      @include border(1px,#d6d6d6,solid,2%);
+      width:.9rem;
+      height:1rem;
+    }
+    li img{
+      width:.6rem;
+    }
+    #go-ul2{
+      @include flexbox();
+      @include justify-content(space-around);
+    }
+    #go-ul2 li{
+      @include flexbox();
+      @include justify-content(center);
+      @include flex-direction(column);
+      width:.9rem;
+      height:1rem;
+      p{
+        &:first-child{
+          color:#000000;
+          @include ellipsis(100%, 1);
+          font-weight:bold;
+        }
+        &:nth-child(2){
+          @include ellipsis(100%, 2);
+        }
+        &:nth-child(3){
+          color:$base-color;
+
+        }
+      }
+
+    }
+
+  }
+  .go-btm{
+    padding:0 .12rem;
+    height:.8rem;
+    width:100%;
+    @include border(1px,#dedede,solid);
+    @include flexbox();
+    @include justify-content(space-around);
+    @include align-items(center);
+    text-align:center;
+    line-height:.3rem;
+    .go-buy{
+      @include border-radius(5px);
+      height:40%;
+      width:68%;
+      background:$base-color;
+      color:#ffffff;
+    }
+    .go-sus{
+      height:40%;
+      width:22%;
+      @include border(1px,$base-color,solid,5px);
+      color:$base-color;
+    }
+  }
+
+}

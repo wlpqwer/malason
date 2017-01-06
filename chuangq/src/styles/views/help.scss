@@ -1,0 +1,11 @@
+.help-box{
+  background:#f7f7f7;height:100%;width:100%;
+}
+.lp-header{ font-weight:bold;height: .44rem; @include border(0 0 .01rem 0,#b3b3b3,solid); background: #fff; display: flex; justify-content: center; align-items: center; padding: 0 .15rem; font-size: .18rem; color: #595959;}
+.lp-header i{font-size: 24px;}
+.lp-header .heder-text{ flex-grow: 1; text-align: center;}
+
+.help-group{ margin-top: .2rem;}
+.help-group p{background: #FFFFFF; height: .55rem; border-bottom: 1px solid #e5e5e5; padding: 0 .15rem; font-size: .16rem; color: #3f3f3f; display: block;  display: flex;  align-items: center; }
+.help-group p span{ flex-grow: 1;}
+.help-group p i{font-size: 14px;}

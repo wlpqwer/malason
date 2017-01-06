@@ -1,0 +1,119 @@
+<div class='lbox3'>
+<div class="l-top">
+  <i class='yo-ico icon-back le'  action-type="back"></i><span>最新资讯</span><i></i>
+</div>
+
+<div class="lbox3div" spa-widget='scroll'>
+  <div class="">
+    <header class='lt'>
+        <p>湿度传感器已研发出新的产品，传感器新玩法</p>
+        <p>
+          <span>10-28</span>
+          <span>16:29</span>
+          <span>中国工业网</span>
+          <i class='yo-ico icon-chakan'></i><span>235人</span>
+        </p>
+        <div class="lt-1">
+        </div>
+    </header>
+    <section class='sf-l-fi er'>
+      <p>
+        <!-- <span ms-text='detail.book'></span> -->
+        在选择压力传感器的时候我们要综合考虑他的精度，而它的精度从哪几方面来看呢，
+        其实造成压力传感器精度的原因很多，
+        下面我们说四个无法避免 的误差，这是传感器的初始误差。
+      </p>
+    </section>
+    <section class='lt-2'>
+      <img src="/chuangq/img/3.png" alt="" />
+    </section>
+    <section class='pa1'>
+      <i class='yo-ico icon-wenben'></i>
+    </section>
+    <section class='lt-3'>
+      <p>
+        <!-- <span ms-text='detail.book'></span> -->
+        在选择压力传感器的时候我们要综合考虑他的精度，而它的精度从哪几方面来看呢，
+        其实造成压力传感器精度的原因很多，
+        下面我们说四个无法避免 的误差，这是传感器的初始误差。
+      </p>
+    </section>
+    <section class='lt-4'>
+    </section>
+    <section class='lt-5'>
+      <p>
+        <!-- <span ms-text='detail.book'></span> -->
+        在选择压力传感器的时候我们要综合考虑他的精度，而它的精度从哪几方面来看呢，
+        其实造成压力传感器精度的原因很多，
+        下面我们说四个无法避免 的误差，这是传感器的初始误差。
+      </p>
+    </section>
+    <div class="sf-l-pi">
+      <span></span><i>评论</i>
+    </div>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+    <section class='sf-l-s messagebox'>
+      <div class="sf-l-se">
+        <img src="/chuangq/img/3.png" alt="" />
+        <span class='s1'>fafafafa</span>
+          &nbsp;  |  &nbsp;&nbsp;
+        <span class='s2'>fafafafa</span>
+      </div>
+      <div class="sf-l-p">
+        <p>
+          克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让克拉克拱让
+        </p>
+        <span>1990-2-9</span>
+      </div>
+    </section>
+  </div>
+</div>
+<section class='sf-l-b'>
+  <i class='yo-ico icon-xihuan fi'></i>
+  <div class="">
+    <input type="text" class="text" value="">
+    <i class='yo-ico icon-question la'></i>
+  </div>
+</section>
+</div>
